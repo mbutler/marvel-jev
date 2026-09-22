@@ -1,0 +1,3752 @@
+[
+  {
+    "id": 1443,
+    "name": "Spider-Man",
+    "real_name": "Peter Benjamin Parker",
+    "deck": "Peter Parker was bitten by a radioactive spider as a teenager, granting him spider-like powers. After the death of his Uncle Ben, Peter learned that \"with great power, comes great responsibility.\" Swearing to always protect the innocent from harm, Peter Parker became Spider-Man.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 18126,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8126579-amazing_spider-man_vol_5_54_stormbreakers_variant_textless.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/spider-man/4005-1443/"
+  },
+  {
+    "id": 1440,
+    "name": "Wolverine",
+    "real_name": "James Howlett",
+    "deck": "A long-lived mutant with the rage of a beast and the soul of a Samurai, James \"Logan\" Howlett's once mysterious past is filled with blood, war, and betrayal. Possessing an accelerated healing factor, keenly enhanced senses, and bone claws in each hand (along with his skeleton) that are coated in adamantium; Wolverine is, without question, the ultimate weapon.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 16940,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/5/57023/9905332-1000001866.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/wolverine/4005-1440/"
+  },
+  {
+    "id": 1442,
+    "name": "Captain America",
+    "real_name": "Steven Grant Rogers",
+    "deck": "During World War II, Steve Rogers volunteered to receive the experimental Super-Soldier Serum. Enhanced to the pinnacle of human physical potential and armed with an unbreakable shield, he became Captain America. After a failed mission left him encased in ice for decades, he was found and revived by the Avengers, later joining their ranks and eventually becoming the team's leader.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 12299,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8459983-rco031_1650495781.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/captain-america/4005-1442/"
+  },
+  {
+    "id": 1455,
+    "name": "Iron Man",
+    "real_name": "Anthony Edward Stark",
+    "deck": "Tony Stark was the arrogant son of wealthy, weapon manufacturer Howard Stark. Tony cared only about himself, but he would have a change of heart after he was kidnapped by terrorists and gravely injured. Pressured to create a weapon of mass destruction, Stark instead created a suit of armor powerful enough for him to escape. Tony used his vast resources and intellect to make the world a better place as The Invincible Iron Man. Stark's super hero identity led him to become a founding member of the Avengers.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 11769,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11174/111743204/9372918-invincibleironman%231vol5kaelngu.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/iron-man/4005-1455/"
+  },
+  {
+    "id": 1459,
+    "name": "Cyclops",
+    "real_name": "Scott Summers",
+    "deck": "The first X-Man, Scott Summers possesses the mutant ability to fire powerful concussive  blasts through his eyes that act as a portal to another dimension full of the force that makes up his optic blast. He is visually distinctive for the ruby quartz visor he wears to control his devastating power. A born leader, Cyclops succeeded his mentor Professor X to command the X-Men.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 11739,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/10012902-5140161970-b364e.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/cyclops/4005-1459/"
+  },
+  {
+    "id": 1444,
+    "name": "Storm",
+    "real_name": "Ororo Munroe",
+    "deck": "Born to an American photo journalist and Kenyan princess, Ororo Munroe is one of the most recognizabe superheroines in the Marvel Universe. Using her unique ability to see and manipulate natural energy patterns of the universe to summon any type of weather phenomenon she desires in the blink of an eye, she is called Storm. ",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 10700,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11174/111743204/9636122-storm7%2Cmateusmanhanini.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/storm/4005-1444/"
+  },
+  {
+    "id": 1462,
+    "name": "Beast",
+    "real_name": "Henry Philip McCoy",
+    "deck": "A founding member of the X-Men, Dr. Hank McCoy is a mutant possessing animal-like strength and agility. Despite being covered in blue fur and resembling a ferocious beast, Hank possesses an astounding intellect and a superb wit. He is currently a key member of X-Force.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 10045,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11112/111123579/7166569-x-force_vol_6_6_textless.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/beast/4005-1462/"
+  },
+  {
+    "id": 2268,
+    "name": "Thor",
+    "real_name": "Thor Odinson",
+    "deck": "Thor Odinson is the All-father of Asgard /God of Thunder, offspring of All-Father Odin & Elder-Goddess Gaea. Combining the powers of both realms makes him an elder-god hybrid and a being of no perceivable limits. Armed with his enchanted Uru hammer Mjolnir which helps him to channel his godly energies. The mightiest and the most beloved warrior in all of Asgard, a staunch ally for good and one of the most powerful beings in the multiverse/omniverse. Thor is also a founding member of the Avengers.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 8986,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11156/111564182/10173044-immortal_thor_vol_1_1_manapul_variant_textless.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/thor/4005-2268/"
+  },
+  {
+    "id": 3552,
+    "name": "Jean Grey",
+    "real_name": "Jean Grey",
+    "deck": "Jean Grey was one of the five original X-Men. An omega-level mutant telepath and powerful telekinetic, Jean has gained near limitless powers as a recurrent host of the Phoenix Force. She is known for her return from death and as the wife of Cyclops.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 8394,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11174/111743204/9631969-snapinst.app_478483283_18489451930039453_2656336862039838358_n_1080.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/jean-grey/4005-3552/"
+  },
+  {
+    "id": 2114,
+    "name": "Thing",
+    "real_name": "Benjamin Jacob Grimm",
+    "deck": "Ben Grimm, better known as the Thing, is the original quintessential tough-guy of the Marvel Universe. But, because of his transformation, he's also the tragic member of the Fantastic Four. Ben was an ace test-pilot until exposure to intense cosmic radiation mutated him into a rock-skinned monster with immense superhuman strength. Ben's exterior is much harder than stone which gives him a rather gruff disposition; but deep down, he has a heart of gold.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 8375,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11141/111413247/7267709-e47c719d-a99f-46ef-9379-269760c8b548_rw_1200.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/thing/4005-2114/"
+  },
+  {
+    "id": 1464,
+    "name": "Iceman",
+    "real_name": "Robert Louis Drake",
+    "deck": "The youngest member of the original X-Men. Bobby is an Omega-level mutant, although it took some help from Emma Frost to realize this. Bobby's control of ice is vast; he can create shields, clones, spikes, slides and also freeze others. He was recently elected to Krakoa's X-Men",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 8272,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9579059-iceman.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/iceman/4005-1464/"
+  },
+  {
+    "id": 2267,
+    "name": "Hulk",
+    "real_name": "Robert Bruce Banner",
+    "deck": "After being bombarded with a massive dose of gamma radiation while saving a young man's life during an experimental bomb testing, Dr. Robert Bruce Banner was transformed into the Incredible Hulk: a green behemoth who is the living personification of rage and pure physical strength.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 8161,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15776/9971293-hulk.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/hulk/4005-2267/"
+  },
+  {
+    "id": 1505,
+    "name": "Professor X",
+    "real_name": "Charles Francis Xavier",
+    "deck": "Professor Charles Xavier is the creator of the X-Men and founder of the Xavier School for Gifted Youngsters. His dream of peaceful coexistence between mutants and humanity has long been the driving force for the X-Men. An immensely powerful telepath and scientific genius, Xavier was among the world's greatest masterminds. Killed at the hands of a Phoenix crazed Cyclops, Xavier's memory and dream still remains and motivates his X-Men to keep fighting for a world that fears and hates them.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 7940,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/10/100647/7261595-hox1pichelli.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/professor-x/4005-1505/"
+  },
+  {
+    "id": 1460,
+    "name": "Colossus",
+    "real_name": "Piotr Nikolaievitch Rasputin",
+    "deck": "Piotr Rasputin is a Russian mutant who possesses the ability to transform his body into organic steel, giving him immense strength and durability. Colossus is among the physically strongest X-Men, and is a talented artist.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 7927,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11144/111442876/9215186-vhfgnhfhn.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/colossus/4005-1460/"
+  },
+  {
+    "id": 2112,
+    "name": "Angel",
+    "real_name": "Warren Kenneth Worthington III",
+    "deck": "A mutant and original member of the X-Men, Warren received his angelic wings at a young age along with a unique healing factor in his blood. After being twisted into a weapon of Apocalypse, Warren became the cold and distant Archangel. In the years since then, he's gone back and forth between his two identities.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 7668,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15776/9988592-angel.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/angel/4005-2112/"
+  },
+  {
+    "id": 1461,
+    "name": "Nightcrawler",
+    "real_name": "Kurt Wagner",
+    "deck": "Kurt Wagner is a prominent member of the X-Men and former member and leader of Excalibur. He possessed the Neyaphemian ability of teleportation, as well as incredible agility, wall scaling and a prehensile tail. Nightcrawler is a devout Catholic, contrasting his demonic appearance. He is a highly skilled swordsmen and former circus acrobat.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 7523,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9404539-13.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/nightcrawler/4005-1461/"
+  },
+  {
+    "id": 2151,
+    "name": "Mr. Fantastic",
+    "real_name": "Reed Richards",
+    "deck": "Reed Richards, also known as Mr. Fantastic, is the leader of the Fantastic Four. He can stretch his body to great distances due to his exposure to cosmic rays while in space. He is also considered to be one of the smartest men alive, using his brain to explore alternate dimensions and save the world alongside his family from science-based threats.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 7241,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11112/111123579/7316596-fantastic_four_vol_6_1_mr._fantastic_variant_textless.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/mr-fantastic/4005-2151/"
+  },
+  {
+    "id": 2120,
+    "name": "Human Torch",
+    "real_name": "Jonathan Lowell Spencer Storm",
+    "deck": "The second most powerful member of the Fantastic Four and the younger brother of Sue Richards. Due to an accident caused by cosmic radiation in space, he can manipulate fire, turn his entire body into it and fly. While Johnny is known for his impetuous and sometimes reckless nature, he is also a loyal friend and fearless hero.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 7166,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8338234-b5866c56-93ff-4db0-aeca-9844ff09eac3_rw_1200.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/human-torch/4005-2120/"
+  },
+  {
+    "id": 1446,
+    "name": "Rogue",
+    "real_name": "Anna Marie",
+    "deck": "The adopted daughter of Mystique, Rogue was once a member of the Brotherhood of Evil Mutants. Now reformed, Rogue has become a veteran member of the X-Men.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 6960,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11174/111743204/9313333-rogue2.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/rogue/4005-1446/"
+  },
+  {
+    "id": 3548,
+    "name": "Kitty Pryde",
+    "real_name": "Katherine Anne Pryde",
+    "deck": "Kitty Pryde (a.k.a. Shadowcat) is a mutant gifted with the ability to become intangible and phase her entire body through solid material. A talented prodigy, she became the poster child of the X-Men; eventually reaching maturation and becoming the team's current leader.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 6741,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9802704-1315140230-latest.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/kitty-pryde/4005-3548/"
+  },
+  {
+    "id": 2190,
+    "name": "Invisible Woman",
+    "real_name": "Susan Storm Richards",
+    "deck": "Susan Storm is a founding member of the Fantastic Four and later the Future Foundation. She is able to create invisible force fields of any shape she conceives and able to turn herself and anything she's in contact with invisible. Sue is the wife of Reed Richards and the mother of their children, Franklin and Valeria.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 6444,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11141/111413247/7267710-4df69cb3-7b54-480e-89e5-2c7e68c52b1b_rw_1200.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/invisible-woman/4005-2190/"
+  },
+  {
+    "id": 1457,
+    "name": "Emma Frost",
+    "real_name": "Emma Grace Frost",
+    "deck": "Emma Frost is a fictional character originating from Marvel Comics.  Originally starting off as a super villain and enemy of the X-Men, during which she was the White Queen of the Hellfire Club, Emma Frost is a powerful mutant telepath who can transform herself into organic diamond. She has become a prominent member of the X-Men. A gifted teacher, Emma is renowned for her beauty, wit, and sense of fashion.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 6443,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15776/10056946-emma_frost.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/emma-frost/4005-1457/"
+  },
+  {
+    "id": 1441,
+    "name": "Magneto",
+    "real_name": "Max Eisenhardt",
+    "deck": "Among the most powerful, recognizable, and infamous mutants to inhabit the planet Earth, Magneto was the X-Men's first major nemesis. Now known as a revolutionist and terrorist, Magneto has fought for the X-Men as many times as he’s been against them.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 6197,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11144/111442876/8791119-dqsdvvq.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/magneto/4005-1441/"
+  },
+  {
+    "id": 1456,
+    "name": "Doctor Strange",
+    "real_name": "Stephen Vincent Strange",
+    "deck": "Dr. Stephen Strange was once a gifted but egotistical surgeon who sought out the Ancient One to heal his hands after they were wounded in a car accident. Instead, the Ancient One trained him to become Master of the Mystic Arts and the Sorcerer Supreme of Earth.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 5201,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8753901-ezgif-3-69b95d2d1b.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/doctor-strange/4005-1456/"
+  },
+  {
+    "id": 1476,
+    "name": "Namor",
+    "real_name": "Namor",
+    "deck": "Namor the Sub-Mariner is the ruler of undersea Atlantis.  The offspring of a sea captain and an Atlantean princess, he has been both a hero and a villain to the surface world. Namor is one of Marvel's oldest published characters with his origins in the Golden Age of comics.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 5161,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/7642506-0083aa18cc79f26640e29a8594e2e51e.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/namor/4005-1476/"
+  },
+  {
+    "id": 1475,
+    "name": "Hawkeye",
+    "real_name": "Clinton Francis Barton",
+    "deck": "Trained by criminals and inspired by heroes, Clint Barton has grown from a troubled youth into one of the greatest heroes on Earth. The world knows him best as Hawkeye: Earth's Mightiest Marksman. A member of the Avengers for many years, he has left the team on occasion because of team friction. But he always returns, ready to face any threat.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 4993,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11156/111564182/9384867-thunderbolts_vol_4_1_trading_card_variant_textless.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/hawkeye/4005-1475/"
+  },
+  {
+    "id": 1499,
+    "name": "Gambit",
+    "real_name": "Remy LeBeau",
+    "deck": "A charming master thief and skilled martial artist who became a member of the X-Men, Gambit possesses the mutant ability to change potential energy in inanimate objects into kinetic energy which causes them to explode. His signature move is throwing kinetically-charged playing cards at his opponents.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 4944,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15776/9998595-gambit.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/gambit/4005-1499/"
+  },
+  {
+    "id": 3176,
+    "name": "Betsy Braddock",
+    "real_name": "Elizabeth Braddock",
+    "deck": "British beauty Elizabeth Braddock is older twin sister of Captain Britain a mutant, former fashion model, and Charter Pilot. She is a long-standing member of the X-Men, Leader of Excalibur, and Founder of the reformed Captain Britain Corps, multi-versal alternate versions of herself.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 4758,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11144/111442876/9486651-x-force7regularcover.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/betsy-braddock/4005-3176/"
+  },
+  {
+    "id": 1466,
+    "name": "Scarlet Witch",
+    "real_name": "Wanda Marya Maximoff",
+    "deck": "The world knows Wanda Maximoff as the Scarlet Witch, with probability manipulation and reality-warping abilities. The younger twin sister of Quicksilver, mother to Wiccan and Speed, and ex-wife of the Vision; Wanda has taken on many roles throughout her life but will forever be known for causing the Decimation. ",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 4701,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15776/9986552-scarlet_witch.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/scarlet-witch/4005-1466/"
+  },
+  {
+    "id": 3202,
+    "name": "Nick Fury",
+    "real_name": "Nicholas Joseph Fury",
+    "deck": "Nicholas Joseph Fury served in World War II as the leader of the Howling Commandos. He later became an agent, and eventually director, of S.H.I.E.L.D. Fury is one of the greatest strategic minds in the world, a born leader and a master of espionage. He currently serves as a replacement Watcher.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 4424,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/8/80111/5323224-nick%20furia%2016.png",
+    "site_detail_url": "https://comicvine.gamespot.com/nick-fury/4005-3202/"
+  },
+  {
+    "id": 1496,
+    "name": "Cannonball",
+    "real_name": "Samuel Zachery Guthrie",
+    "deck": "Cannonball is a mutant with the ability to propel himself through the air like a human rocket. Over the years, Sam Guthrie has grown from a New Mutant, to the leader of the original X-Force, to a full-fledged member of the X-Men. He's currently a U.S. Avenger.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 4310,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/7817292-samuel_guthrie_%2528earth-616%2529_from_new_mutants_vol_4_2_001.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/cannonball/4005-1496/"
+  },
+  {
+    "id": 1468,
+    "name": "Doctor Doom",
+    "real_name": "Victor Von Doom",
+    "deck": "The very mention of his name makes lesser men tremble! The brilliant scientist whose iron mask conceals his scarred (but once handsome) face! Master of science and sorcery, Victor Von Doom is the monarch of Latveria, attempting the betterment of humanity through world conquest! Unequaled and unrivaled in every manner, Doctor Doom has had many conflicts with both earthly and cosmic super-beings, but he will always be known as the eternal nemesis of Reed Richards and his accursed Fantastic Four!",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 4071,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9947963-large-9309087.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/doctor-doom/4005-1468/"
+  },
+  {
+    "id": 3200,
+    "name": "Black Widow",
+    "real_name": "Natalia Alianovna Romanova",
+    "deck": "Former KGB agent Natalia Alianovna Romanova, known as the Black Widow Natasha Romanoff, was trained by the top-secret Soviet brainwashing and training program the Red Room to become the ultimate \"Super-Spy\". She defected from the Soviet Union to the US, joining S.H.I.E.L.D., and later Black Widow became a long-standing member of The Avengers. She is a woman with an enigmatic past and red in her ledger.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 3894,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11156/111564182/9646599-widow2.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/black-widow/4005-3200/"
+  },
+  {
+    "id": 3546,
+    "name": "Havok",
+    "real_name": "Alexander Summers",
+    "deck": "Havok is the son of Corsair and brother of Cyclops, and Vulcan, and has led both the Brotherhood of Mutants, and X-Factor. He also was part of Uncanny Avengers and Starjammers.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 3873,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9528964-large-7352827.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/havok/4005-3546/"
+  },
+  {
+    "id": 2247,
+    "name": "Hank Pym",
+    "real_name": "Henry Jonathan Pym",
+    "deck": "Hank Pym is a scientific genius, a founding member of the Avengers, the creator of Pym Particles and of Ultron, and a modern-day superhero who suffers from a Bipolar disorder. He has acted under many memorable identities such as Ant-Man, Giant Man, Goliath, Yellowjacket, and the Wasp. He is also the Earth's Scientist Supreme, as decreed by Eternity.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 3868,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9213988-rco023_1703686783.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/hank-pym/4005-2247/"
+  },
+  {
+    "id": 1504,
+    "name": "Vision",
+    "real_name": "Vision",
+    "deck": "Vision is an artificial intelligence, a \"synthezoid\" created by the villain Ultron and an Avenger who possesses the power to alter his density at will. Having gained a modicum of humanity, Vision is always afraid he may one day lose touch with it.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 3796,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/10812/9736870-vision.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/vision/4005-1504/"
+  },
+  {
+    "id": 2157,
+    "name": "Cable",
+    "real_name": "Nathan Christopher Charles Summers",
+    "deck": "The once-mysterious Cable (a.k.a. Nathan Summers) is Cyclops' time-traveling son who was infected with the deadly techno-organic virus during his infancy, which he keeps at bay using his advanced psionic powers. At one time a founding member and leader of the militant team called X-Force, previously known as the New Mutants, Cable takes the aimless youths under his wing and whips them into fighting shape in order to prepare them for future threats. ",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 3773,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15776/8923919-cable.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/cable/4005-2157/"
+  },
+  {
+    "id": 1502,
+    "name": "Wasp",
+    "real_name": "Janet Van Dyne",
+    "deck": "Genetically altered by Ant-Man (Henry Pym), Janet Van Dyne gained the ability to alter her size, fly at rapid speeds, and fire bio-electric energy \"stings\". Calling herself \"Wasp\", she became Pym's superhero partner. Later, she became a founding member and the first female member of the Avengers.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 3717,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15776/10190293-wasp.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/wasp/4005-1502/"
+  },
+  {
+    "id": 4563,
+    "name": "Sabretooth",
+    "real_name": "Victor Creed",
+    "deck": "Victor Creed is the feral mutant called Sabretooth.  He was a member/subject of the Weapon X Project and is the arch-enemy of Wolverine. Unlike Wolverine, Sabretooth embraces his primal instincts, leaving death in his wake. Due to a spell gone wrong by Scarlet Witch, Sabretooth got inverted and became a more heroic person for a while. ",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 3714,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8654402-ezgif-1-205f3824f0.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/sabretooth/4005-4563/"
+  },
+  {
+    "id": 1477,
+    "name": "Black Panther",
+    "real_name": "T'Challa",
+    "deck": "T'Challa is the Black Panther, king of Wakanda, one of the most technologically advanced nations on Earth. He is among the top intellects and martial artists of the world, a veteran Avenger, and a member of the Illuminati. Using his powers and abilities, he has pledged his fortune, powers, and life to the service of all mankind.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 3643,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8251800-black_panther_vol_8_1_devil_dog_comics_and_jolzar_collectibles_exclusive_virgin_variant.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/black-panther/4005-1477/"
+  },
+  {
+    "id": 1467,
+    "name": "Quicksilver",
+    "real_name": "Pietro Django Maximoff",
+    "deck": "Quicksilver is a superhuman with the ability to travel at speeds far beyond the average human. He is the older twin brother of the Scarlet Witch. After he and his sister left the Brotherhood of Evil Mutants, they became members of the Avengers. Although Quicksilver's loyalties and reliability have long been erratic, his love for his sister has proven constant.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 3537,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9250882-ezgif-1-9183cabfe6.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/quicksilver/4005-1467/"
+  },
+  {
+    "id": 1487,
+    "name": "J. Jonah Jameson",
+    "real_name": "John Jonah Jameson Junior",
+    "deck": "J. Jonah Jameson is the former employer of Peter B. Parker and remains an aggravate of Spider-Man. He was once the chief editor and publisher of the Daily Bugle, a New York newspaper, and the mayor of New York before his resignation amidst scandal resulting from Superior Spider Man and the Goblin Nation. He now is a host of a show on the F.A.C.T. News Channel",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 3494,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/3/33913/1162969-137_web_of_spider_man_9.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/j-jonah-jameson/4005-1487/"
+  },
+  {
+    "id": 1469,
+    "name": "Mystique",
+    "real_name": "Raven Darkholme",
+    "deck": "True to her name, the shape shifting Mystique is an enigma. Is she a mutant terrorist determined to bring about the end of humanity, or a misguided mutant with a good heart?",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 3441,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/10019556-mystiquevariant.png",
+    "site_detail_url": "https://comicvine.gamespot.com/mystique/4005-1469/"
+  },
+  {
+    "id": 1449,
+    "name": "She-Hulk",
+    "real_name": "Jennifer Walters",
+    "deck": "After being shot by mobsters, Jennifer Walter received a life-saving blood transfusion from her cousin Bruce Banner, aka The Hulk. Due to Banner's irradiated blood, Jennifer gained the ability to transform into the Sensational She-Hulk. She is a recurring member of the Avengers.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 3378,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11184/111843102/9479974-sshulk%233diaz.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/she-hulk/4005-1449/"
+  },
+  {
+    "id": 4562,
+    "name": "Jubilee",
+    "real_name": "Jubilation Lee",
+    "deck": "Jubilee is a long-time member of the X-Men and founding member of Generation X. She previously lost her mutant powers on M-Day, and then was turned into a vampire. Most recently, she re-gained her pyrotechnic abilities and was turned back into a mutant .",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 3242,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9733283-7652972982-GrqfVufWoAAUUWC.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/jubilee/4005-4562/"
+  },
+  {
+    "id": 1450,
+    "name": "Luke Cage",
+    "real_name": "Carl Lucas",
+    "deck": "Luke Cage, wrongly convicted and unjustly imprisoned, was altered in a failed prison experiment that granted him unbreakable skin and superhuman strength. With his street smarts and unending determination to do right, he fights for the common man! He eventually married Jessica Jones and had a daughter with her. ",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 3224,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/7773026-rco001_1583481104.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/luke-cage/4005-1450/"
+  },
+  {
+    "id": 1503,
+    "name": "Bishop",
+    "real_name": "Lucas Bishop",
+    "deck": "Lucas Bishop is a mutant from the 22nd century that traveled into the past, becoming a member of the X-Men, and later, the Uncanny X-Force. He has the mutant ability to absorb and redirect any kinetic energy that is used against him or that is released in his general vicinity. He is the first black male team member within the X-Men Universe.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 3123,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11156/111564182/9646582-timeslidebishopii.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/bishop/4005-1503/"
+  },
+  {
+    "id": 4644,
+    "name": "Sunspot",
+    "real_name": "Roberto Da Costa",
+    "deck": "Roberto Da Costa is a mutant with the ability to harness the sun's power, which grants him superhuman strength, speed, and durability. Born in Brazil, Roberto comes from a wealthy family and has been described as brash and quick tempered.  Initially a member of the New Mutants, Roberto has since developed a long history with various teams affiliated with both the X-Men and the Avengers.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 3068,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11174/111743204/9603916-x-menred%239%2Cvol2taurinclarke.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/sunspot/4005-4644/"
+  },
+  {
+    "id": 1486,
+    "name": "Venom",
+    "real_name": "None",
+    "deck": "The Venom symbiote originally bonded with Peter Parker, AKA Spider-Man, during his adventure in the first Secret Wars on the Beyonder's planet called Battleworld. Initially, he thought the symbiote was just an attire. However, upon his discovery, he rejected it because he realized that it was sentient. Since then, the symbiote has bonded with several other hosts, including Eddie Brock, Angelo Fortunato, Flash Thompson, Ann Weying, and even Carol Danvers. Currently, its host is Eddie Brock.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 3015,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9837512-large-5588684.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/venom/4005-1486/"
+  },
+  {
+    "id": 1780,
+    "name": "Aunt May",
+    "real_name": "May Reilly Parker Jameson",
+    "deck": "Peter Parker's aunt-by-marriage and one of the most important people in his life.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 3007,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11/117763/2733264-marvel_knights_spider_man__4___page_3.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/aunt-may/4005-1780/"
+  },
+  {
+    "id": 3566,
+    "name": "Rachel Summers",
+    "real_name": "Rachel Anne Grey-Summers",
+    "deck": "Rachel Summers is the daughter of Cyclops and Jean Grey from the alternate \"Days of Future Past\" timeline. She was forced to become a mutant \"hound\" and track other mutants before escaping to the present. Rachel has immense telekinetic and telepathic powers. Rachel was also a longtime host to the Phoenix Force.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2997,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9658846-large-4347927.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/rachel-summers/4005-3566/"
+  },
+  {
+    "id": 1473,
+    "name": "Polaris",
+    "real_name": "Lorna Sally Dane",
+    "deck": "The Mistress of Magnetism, Polaris, is the daughter of Magneto. One of the earliest additions to the X-Men's roster, she has also been a member of X-Factor and the Genoshan Acolytes.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2995,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11174/111743204/9375196-x-men%236vol6russelldauterman.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/polaris/4005-1473/"
+  },
+  {
+    "id": 1525,
+    "name": "Punisher",
+    "real_name": "Francis Castiglione",
+    "deck": "When U.S. Marine veteran Frank Castle's family's was murdered for witnessing a mob hit, the man vowed to avenge their deaths and became a one-man army in his personal war against the criminal underworld. With a distinct death's head skull adorning his chest, Frank Castle became the vigilante known as the Punisher.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2993,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15776/9998597-punisher.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/punisher/4005-1525/"
+  },
+  {
+    "id": 1498,
+    "name": "Dazzler",
+    "real_name": "Alison Blaire",
+    "deck": "A mutant with the ability to transduce sound into light, which often forces her into reluctant superheroism. She is also a very gifted singer and performer, hence her reservations in donning her uniform.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2806,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15776/9980863-dazzler.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/dazzler/4005-1498/"
+  },
+  {
+    "id": 4557,
+    "name": "Wolfsbane",
+    "real_name": "Rahne Sinclair",
+    "deck": "A member of the original New Mutants, Wolfsbane has the power of lycanthropy.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2705,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11112/111123579/7198464-wolfsbane.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/wolfsbane/4005-4557/"
+  },
+  {
+    "id": 1451,
+    "name": "Sam Wilson",
+    "real_name": "Samuel Thomas Wilson",
+    "deck": "A social worker turned hero, Sam Wilson's bleak outlook on life was wiped away the day he met Captain America. Using a winged costume and his remarkable combat prowess and avian telepathy, he became the Falcon - defender of Harlem, and eventually bearer of Captain America mantle.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2653,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8654420-ezgif-1-bbdbc0fed3.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/sam-wilson/4005-1451/"
+  },
+  {
+    "id": 1485,
+    "name": "Doctor Octopus",
+    "real_name": "Otto Gunther Octavius",
+    "deck": "Doctor Octopus is a supervillain originating from Marvel Comics. A former nuclear physicist and atomic researcher, Otto Octavius' life changed forever when one of his experiments went horribly wrong involving his four mechanical appendages used to assist him in his experiments. From then on, Octavius soon after his initial encounter has become one of the most dangerous supervillains in the Marvel Universe.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2598,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8273265-xwo2dl8g0c381.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/doctor-octopus/4005-1485/"
+  },
+  {
+    "id": 1463,
+    "name": "Moonstar",
+    "real_name": "Danielle Moonstar",
+    "deck": "A Native American and member of the original New Mutants, Dani Moonstar was one of many mutants to lose their powers on M-Day, but has since had them restored. Moonstar currently uses her skills, experience and combat prowess to fight against evil as Hel's Valkyrie and has been a member of the New Mutants, MLF, X-Force, Fearless Defenders and the X-Men.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2565,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15776/9998608-moonstar.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/moonstar/4005-1463/"
+  },
+  {
+    "id": 1453,
+    "name": "Spider-Woman",
+    "real_name": "Jessica Miriam Drew",
+    "deck": "As a child, Jessica Drew was cured of a fatal illness using a serum containing irridiated spider biomaterial. She was trained to be a Hydra spy, but Jessica made a new life for herself as the hero Spider-Woman. She has been an Avenger, an agent of S.H.I.E.L.D. and S.W.O.R.D., as well as a Private Investigator.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2492,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11156/111564182/10179461-spider-woman_vol_7_11_textless.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/spider-woman/4005-1453/"
+  },
+  {
+    "id": 2502,
+    "name": "Silver Surfer",
+    "real_name": "Norrin Radd",
+    "deck": "Norrin Radd of Zenn-La is the mighty herald of Galactus, the devourer of worlds. Gifted with the Power Cosmic and a trusty board that's faster than lightspeed, which he can summon at will whenever needed, Norrin Radd travels to distant reaches throughout the universe as the Silver Surfer.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2488,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8469814-ezgif-4-76f99dd072.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/silver-surfer/4005-2502/"
+  },
+  {
+    "id": 3560,
+    "name": "X-23",
+    "real_name": "Laura Kinney",
+    "deck": "X-23 is a product of the Weapon X program, born from a damaged sample of Wolverine's DNA. During the First Age of Krakoa, she had grown old while in the Vault and presumed dead. After being rescued, she existed at the same time as a resurrected clone of herself until she was killed during Fall of X, leaving the clone as the lone Laura once more. ",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2485,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9041401-9742387181-latest.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/x-23/4005-3560/"
+  },
+  {
+    "id": 2161,
+    "name": "Domino",
+    "real_name": "Neena Thurman",
+    "deck": "Domino is a skilled mutant mercenary who possesses the ability to manipulate probability in her favor, giving the effect of incredible luck.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2473,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/10040133-large-2303264.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/domino/4005-2161/"
+  },
+  {
+    "id": 2158,
+    "name": "Warpath",
+    "real_name": "James Proudstar",
+    "deck": "James Proudstar, known as Warpath, is a mutant of Apache descent who has been affiliated with many X-Teams over the years starting with the Hellions.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2366,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11156/111564182/10179471-warpath.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/warpath/4005-2158/"
+  },
+  {
+    "id": 1492,
+    "name": "Iron Fist",
+    "real_name": "Daniel Thomas Rand-K'ai",
+    "deck": "Before his death, Danny Rand was the most well-known immortal Iron Fist: protector of the mystical city of K'un Lun. Now, he is a Spirit of Vengeance for an Egyptian god. He is among the best fighters in the Marvel Universe. ",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2339,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11156/111564182/10019603-leo-chiola-dhokunlun2026001-col.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/iron-fist/4005-1492/"
+  },
+  {
+    "id": 4324,
+    "name": "Loki",
+    "real_name": "Loki Laufeyson",
+    "deck": "Loki is the Jötunn/Asgardian God of Mischief and Prince of Lies, the adopted son of Odin and typically nemesis of his brother, Thor, as well as the adoptive brother to former Guardian of the Galaxy, Angela. Loki has schemed against Thor and Asgard for ages and his cosmic meddling led to the formation of the Avengers. Recently reincarnated, he decided to reform. Going on to protect the realms as the agent of Asgard, then as the sorcerer supreme, to defeating Laufey and becoming king of Jotunnheim.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2337,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11184/111843102/9442745-loki02.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/loki/4005-4324/"
+  },
+  {
+    "id": 4279,
+    "name": "Forge",
+    "real_name": null,
+    "deck": "Forge is a Cheyenne with natural mystical abilities and the mutant power to innately comprehend technology and build anything he can think of. He's a former love of Storm.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2311,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9337010-0269069310-ffe2d.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/forge/4005-4279/"
+  },
+  {
+    "id": 1445,
+    "name": "Juggernaut",
+    "real_name": "Cain Marko",
+    "deck": "Cain Marko, also known as the Juggernaut, is the step-brother of X-Men founder Charles Xavier and the avatar of Cyttorak. Powered by the Crimson Gem of Cyttorak, Marko is bestowed virtually limitless brute strength and durability which he mostly uses for criminal pursuits and wanton destruction. The Juggernaut is considered one of the strongest and most powerful beings on Earth.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2224,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9929018-ezgif-826cff2757b21f94.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/juggernaut/4005-1445/"
+  },
+  {
+    "id": 1483,
+    "name": "Kingpin",
+    "real_name": "Wilson Grant Fisk",
+    "deck": "The Kingpin is a supervillain originating from Marvel Comics. The self-proclaimed kingpin of crime, Wilson Fisk is one of the most prominent figures of organized crime in the United States. He is the king of mobsters, controlling organized crime on the East Coast with an iron fist. Kingpin is a major enemy of superheroes Spider-Man and Daredevil.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2109,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11156/111564182/9353485-wilsonfisksecretempire.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/kingpin/4005-1483/"
+  },
+  {
+    "id": 2503,
+    "name": "Hercules",
+    "real_name": "Heracles",
+    "deck": "One of six Olympian sons of Zeus, Hercules was born the savior of the Gods and mankind. Known as the Prince of Power, Hercules is one of the strongest beings in existence, an Olympian God and a modern superhero recognized throughout the world for his might. He has been a champion of mankind since ancient times and continues to defend the world in the modern age - most frequently as a member of the Avengers.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2055,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/7817301-hercules_%28earth-616%29_from_avengers_no_road_home_vol_1_10_001.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/hercules/4005-2503/"
+  },
+  {
+    "id": 1489,
+    "name": "Flash Thompson",
+    "real_name": "Eugene Thompson",
+    "deck": "Flash frequently bullied Peter Parker but was actually Spider-Man's greatest fan. In time, Flash befriended Peter, became a decorated war hero, and eventually joined the Marvel superheroes as a symbiote host, first with Venom and then with Anti-Venom.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2032,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8056388-extreme_carnage_alpha_vol_1_1_616_comics_and_jolzar_collectibles_exclusive_virgin_variant.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/flash-thompson/4005-1489/"
+  },
+  {
+    "id": 3179,
+    "name": "Mr. Sinister",
+    "real_name": "Nathaniel Essex",
+    "deck": "Mr. Sinister is a supervillain originating from Marvel Comics.  Nathaniel Essex was a 19th Century scientist that was genetically mutated by Apocalypse, who shared his philosophy of Social Darwinism. Becoming the immortal Mr. Sinister, he is perhaps the greatest geneticist in the world; capable of cloning, creating, enhancing, and controlling mutant abilities. Sinister is one of the X-Men's most dangerous enemies.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 2029,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/10/100647/7261635-house%20of%20x-powers%20of%20x.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/mr-sinister/4005-3179/"
+  },
+  {
+    "id": 3182,
+    "name": "Blob",
+    "real_name": "Frederick J. Dukes",
+    "deck": "A common enemy of the X-Men and one of the most unusual mutants, who was de-powered during M-Day. His Age of Apocalypse counterpart has since replaced him in his various villainous roles after leaving his home reality.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1997,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9489486-6848530197-GYGTkWUXUAAQ-sn.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/blob/4005-3182/"
+  },
+  {
+    "id": 1465,
+    "name": "Wonder Man",
+    "real_name": "Simon Williams",
+    "deck": "Simon Williams was made into a being of pure ionic energy by Baron Zemo, becoming the impossibly powerful Wonder Man. Meant to aid the Masters of Evil in their campaign against the Avengers, Wonder Man found himself sympathizing with the heroes and joined their team instead. He has remained an Avengers mainstay ever since, despite his constant insecurities and battles with his own mortality.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1873,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11156/111564182/10180324-wonder_man_vol_4_1_besch_virgin_variant.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/wonder-man/4005-1465/"
+  },
+  {
+    "id": 3190,
+    "name": "Northstar",
+    "real_name": "Jean-Paul Beaubier",
+    "deck": "Twin brother of Aurora, Northstar is the haughty mutant speedster affiliated with the X-Men, though he was originally a member of Alpha Flight. He is most famous for being the first openly gay superhero.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1867,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/14487/7559179-7d0dcfa4-4c92-488c-8f27-bff0ee335fae.jpeg",
+    "site_detail_url": "https://comicvine.gamespot.com/northstar/4005-3190/"
+  },
+  {
+    "id": 2159,
+    "name": "Boom-Boom",
+    "real_name": "Tabitha Smith",
+    "deck": "A former member of the New Mutants and X-Force, Boom-Boom is a mutant with the ability to create energy bombs of various sizes and intensity which explode upon impact.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1853,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9978189-5389669574-378e7.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/boom-boom/4005-2159/"
+  },
+  {
+    "id": 2149,
+    "name": "Galactus",
+    "real_name": "Galan",
+    "deck": "Galactus is the infamous \"Devourer of Worlds\" in the Marvel Universe. His powers are nearly omnipotent. He has appointed several entities as his Heralds, imbuing them with the Power Cosmic. He uses energy from the core of planets and universal sources to sustain himself.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1848,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8067862-amazing_spider-man_vol_5_12_fantastic_four_villains_variant_textless.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/galactus/4005-2149/"
+  },
+  {
+    "id": 2175,
+    "name": "Sebastian Shaw",
+    "real_name": "Sebastian Hiram Shaw",
+    "deck": "Sebastian Shaw is a mutant that is best known for being the Black King of the Hellfire Club. His power allows him to absorb all kinetic energy directed at him and turn it into greater physical strength and speed.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1834,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8543165-280662241_575624677257690_5913773267303824814_n.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/sebastian-shaw/4005-2175/"
+  },
+  {
+    "id": 2469,
+    "name": "Franklin Richards",
+    "real_name": "Franklin Benjamin Richards",
+    "deck": "Franklin is the son of Reed Richards and Sue Storm, also known as Mr. Fantastic and Invisible Woman of the Fantastic Four. Franklin is an Omega-level mutant with reality-warping abilities; even at a young age he is one of the most powerful beings in the Universe.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1799,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/9/96747/7258687-franklinricha.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/franklin-richards/4005-2469/"
+  },
+  {
+    "id": 1480,
+    "name": "Gwen Stacy",
+    "real_name": "Gwendolyne Stacy",
+    "deck": "Gwen Stacy was the first true love of Peter Parker. She's best known for her tragic death by being thrown off from the Brooklyn Bridge by the Green Goblin. The Earth-65 version is Spider-Gwen who is a major player in the Spider family.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1796,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15776/9998571-gwen_stacy.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/gwen-stacy/4005-1480/"
+  },
+  {
+    "id": 1470,
+    "name": "Toad",
+    "real_name": "Mortimer Toynbee",
+    "deck": "Toad (Mortimer Toynbee) was a Marvel Comics super villain, best known for being a member of Magneto's Brotherhood of Evil Mutants.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1795,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/7040861-toad.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/toad/4005-1470/"
+  },
+  {
+    "id": 2164,
+    "name": "Phoenix Force",
+    "real_name": null,
+    "deck": "A powerful cosmic entity, an immortal being representing the Life-Death-Rebirth cycle, all current and future life, and is the nexus of all psychic energy ever to have existed, to exist or will exist. It has, at times, chosen a host to live within, granting the vessel nigh-omnipotent power. It has the power to create or destroy anything, or everything. The Phoenix has had various hosts, but the most well known and frequent host is the mortal mutant Jean Grey.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1732,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/10812/2363684-phoenixdone.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/phoenix-force/4005-2164/"
+  },
+  {
+    "id": 4442,
+    "name": "Armor",
+    "real_name": "Hisako Ichiki",
+    "deck": "Hisako Ichiki is a teenage mutant from Japan that studied at the Xavier Institute before becoming an X-Man. Her mutant power allows her to create psionic \"armor\", giving her enhanced strength and durability. During the rise of Krakoa, Hisako joined S.W.O.R.D.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1704,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11116/111167641/8074872-armor-sword_inhyuklee-art.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/armor/4005-4442/"
+  },
+  {
+    "id": 4444,
+    "name": "Lockheed",
+    "real_name": "Lockheed",
+    "deck": "Lockheed is a purple, winged, quadrupedal alien that resembles a small dragon. He is the longtime companion of Kitty Pryde with whom he shares a special bond. He is a valued member of the X-Men and founding member of The Pet Avengers.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1701,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/6/68065/9478398-4781536172-GXWyBSLW4AARD2Y.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/lockheed/4005-4444/"
+  },
+  {
+    "id": 3457,
+    "name": "Thunderbolt Ross",
+    "real_name": "Thaddeus E. Ross",
+    "deck": "Thaddeus \"Thunderbolt\" Ross is former U.S. military general. He is father of Bruce Banner's love Betty Ross and was archenemy of the Incredible Hulk. Ross made a deal with villains to be transformed into a Hulk himself. As the ruthless and cunning Red Hulk, he attempted to destroy his nemesis and take control of the country before seeking redemption as an Avenger. ",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1682,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15776/10129913-rulk.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/thunderbolt-ross/4005-3457/"
+  },
+  {
+    "id": 1782,
+    "name": "Robbie Robertson",
+    "real_name": "Joseph Robertson",
+    "deck": "Editor-in-Chief of the Daily Bugle, and perhaps the best friend to J. Jonah Jameson.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1680,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/3/30334/1132216-mu1165.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/robbie-robertson/4005-1782/"
+  },
+  {
+    "id": 1926,
+    "name": "War Machine",
+    "real_name": "James Rupert Rhodes",
+    "deck": "War Machine is a superhero originating from Marvel Comics. James \"Rhodey\" Rhodes is Tony Stark's personal pilot and one of the playboy's oldest friends. Rhodes also known as Rhodey has often donned the Iron Man mantle when the burden has been too much for his friend, but has also established his own identity as the War Machine and Iron Patriot.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1641,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11/113509/4985511-war%20machine%20anad.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/war-machine/4005-1926/"
+  },
+  {
+    "id": 1781,
+    "name": "Jarvis",
+    "real_name": "Edwin Jarvis",
+    "deck": "Butler to the Stark family, Edwin Jarvis went on to be the caretaker of the Avengers Mansion and has laid his life on the line for them several times.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1620,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9277062-large-3666685.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/jarvis/4005-1781/"
+  },
+  {
+    "id": 3426,
+    "name": "Husk",
+    "real_name": "Paige Elisabeth Guthrie",
+    "deck": "Husk is a mutant with the ability to husk her skin to expose a new type and layer of skin underneath. Originally a member of Generation X, Paige graduated into the X-Men.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1577,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11155/111551850/9754954-1010068.jfif.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/husk/4005-3426/"
+  },
+  {
+    "id": 4558,
+    "name": "Magma",
+    "real_name": "Amara Juliana Olivians Aquilla",
+    "deck": "Magma can transform into molten rock &amp; has control over the Earth.  She was one of the New Mutants, but left to join the Hellions.  She has since been a teacher at the Xavier Institute and rejoined her teammates from the New Mutants.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1560,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9698581-newmutants8cover.png",
+    "site_detail_url": "https://comicvine.gamespot.com/magma/4005-4558/"
+  },
+  {
+    "id": 3181,
+    "name": "Siryn",
+    "real_name": "Theresa Maeve Rourke Cassidy",
+    "deck": "Theresa Cassidy is a mutant with sonic-based powers inherited from her father, Sean Cassidy a.k.a. Banshee. In honor and memory of her father, she took the name of Banshee.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1545,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/14487/7586486-5edd1ff4-8bc8-4275-8835-129e93c44c7d.jpeg",
+    "site_detail_url": "https://comicvine.gamespot.com/siryn/4005-3181/"
+  },
+  {
+    "id": 3175,
+    "name": "Sunfire",
+    "real_name": "Shiro Yoshida",
+    "deck": "Shiro Yoshida is a Japanese mutant who converts solar radiation into plasma. Though he famously does not work well on a team, Sunfire has been a member of the X-Men, Uncanny Avengers and the leader of Big Hero 6. He is considered to be Japan's premier superhero.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1545,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/14487/8070521-142c78e3-de35-4135-8f38-be5bd4fde52c.jpeg",
+    "site_detail_url": "https://comicvine.gamespot.com/sunfire/4005-3175/"
+  },
+  {
+    "id": 3526,
+    "name": "Dum Dum Dugan",
+    "real_name": "Timothy Aloysius Cadwallader Dugan",
+    "deck": "Dum Dum Dugan served with Nick Fury's Howling Commandos during WWII. He later became Fury's second in command at S.H.I.E.L.D. and one of his closest friends. Dugan, now struggling with identity issues since he was revealed to be a LMD.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1523,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/0/5344/1168194-dum_dum_dugan_01.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/dum-dum-dugan/4005-3526/"
+  },
+  {
+    "id": 1479,
+    "name": "Black Cat",
+    "real_name": "Felicia Hardy",
+    "deck": "Former cat burglar Felicia Hardy became a crime fighter when she became romantically attracted to and involved with Spider-Man. Felicia has the ability to instill \"bad luck\" around others - this comes in handy when fighting crime!",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1521,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9653166-large-5481312.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/black-cat/4005-1479/"
+  },
+  {
+    "id": 4559,
+    "name": "Sage",
+    "real_name": " Teresia Karisik",
+    "deck": "Teresia \"Tessa\" Karisik is a mutant with mental abilities and a computer-like mind capable of infinite recall. A longtime ally to Charles Xavier, Sage has been a member of the Hellfire Club, X-Men, Excalibur and co-leader of X-Force.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1520,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9505511-3009310613-GZZcNneWkAAAva9.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/sage/4005-4559/"
+  },
+  {
+    "id": 1493,
+    "name": "Moon Knight",
+    "real_name": "Marc Spector",
+    "deck": "Moon Knight, Marc Spector, Steven Grant, and Jake Lockley: four different aspects of the same man who was resurrected by Khonshu (the Egyptian Lunar-God of Vengeance and Justice) to serve as his \"avatar.\" Those unjust mortals who prey upon the innocents traveling at night, with powers that come from the moon, beware the Vengeance of the Moon Knight!",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1510,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11156/111564182/9808590-mk1.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/moon-knight/4005-1493/"
+  },
+  {
+    "id": 4327,
+    "name": "Medusa",
+    "real_name": "Medusalith Amaquelin-Boltagon",
+    "deck": "Medusa is the Queen of the Inhumans and the primary interpreter for her husband Black Bolt, the King of the Inhumans. Medusa is best known for her long, thick head of red hair, which she can psychokinetically wield like countless extra appendages.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1509,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11112/111123579/6554634-medusa%2021.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/medusa/4005-4327/"
+  },
+  {
+    "id": 2248,
+    "name": "Rick Jones",
+    "real_name": "Richard Milhouse Jones",
+    "deck": "A scrappy, rebellious orphan, Rick Jones stumbled into the test site for the Gamma Bomb and inadvertently caused Bruce Banner to be caught in the blast that transformed Banner into the Hulk. Rick became the Hulk's closest confidant, a member of the Avengers, and a friend and perpetual sidekick to multiple heroes. ",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1477,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9657732-rco012_w_1741801173.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/rick-jones/4005-2248/"
+  },
+  {
+    "id": 4329,
+    "name": "Black Bolt",
+    "real_name": "Blackagar Boltagon",
+    "deck": "The king of the Inhumans, Black Bolt is cursed and blessed with a quasi-sonic voice. He must remain forever silent, for with the slightest whisper he can destroy cities, and with the loudest screams he can level continents.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1451,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11111/111111230/3772993-blackbolt.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/black-bolt/4005-4329/"
+  },
+  {
+    "id": 2250,
+    "name": "Red Skull",
+    "real_name": "Johann Schmidt",
+    "deck": "A long-time archenemy of Captain America, Johann Schmidt is a proud Nazi general and the embodiment of evil, fear, and horror. He is known as the ruthless Red Skull.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1443,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8041788-captain_america_vol_9_13_bring_on_the_bad_guys_variant_textless.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/red-skull/4005-2250/"
+  },
+  {
+    "id": 3507,
+    "name": "Odin",
+    "real_name": "Odin Borson",
+    "deck": "Odin Borson, is a nexus being who is omnipotent and almost unrivaled in raw power . He is the son of Bor Burison, brother of Vili and Ve, husband of Frigga and the father of Thor, Vidar, Balder and adoptive father of Loki.  Odin is the wisest and by far the most powerful of the Asgardian Gods. Alpha of the council of God Heads Odin is a name that is respected and feared throughout the Marvel Multiverse.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1432,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/7638989-odin_borson_%28earth-616%29_from_fear_itself_vol_1_1_immonen_variant_textless_cover.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/odin/4005-3507/"
+  },
+  {
+    "id": 2478,
+    "name": "Harry Osborn",
+    "real_name": "Harold Osborn",
+    "deck": "Harry Osborn is the best friend of Peter Parker, the Amazing Spider-Man. His father is Norman Osborn, a global industrialist and billionaire.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1328,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/6/62795/6388168-harry.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/harry-osborn/4005-2478/"
+  },
+  {
+    "id": 3544,
+    "name": "Sandman",
+    "real_name": "William Baker",
+    "deck": "Former enemy of Spider-Man and the Fantastic Four, Sandman reformed after realising he was unhappy with his life. He joined the Avengers and later Silver Sable's Wild Pack. Sandman eventually returned to crime after being brainwashed by the Wizard, but sometimes still displays desire to better himself.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1311,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11144/111442876/8791112-cerec.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/sandman/4005-3544/"
+  },
+  {
+    "id": 2484,
+    "name": "Betty Brant",
+    "real_name": "Elizabeth Brant-Leeds",
+    "deck": "Betty Brant started as a personal secretary at the Daily Bugle and later became a top reporter. Betty is also one of the many love interests of Peter Parker and ex-girlfriend of Flash Thompson",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1308,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/0/5599/180421-38371-betty-brant.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/betty-brant/4005-2484/"
+  },
+  {
+    "id": 2115,
+    "name": "Crystal",
+    "real_name": "Crystalia Amaquelin",
+    "deck": "Crystal is a member of the Inhumans and the younger sister of Medusa, Queen of the Inhumans. She has the power to manipulate the four classical elements of Air, Fire, Water and Earth.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1302,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11130/111305005/5512933-crystal_all-new-all-different.png",
+    "site_detail_url": "https://comicvine.gamespot.com/crystal/4005-2115/"
+  },
+  {
+    "id": 2244,
+    "name": "Chamber",
+    "real_name": "Jonothon Evan Starsmore",
+    "deck": "Chamber is a mutant with psionic energy emitting from his chest. He lost his powers on M-Day, was kidnapped by a cult of Apocalypse and transformed into Decibel. He regained his original powers following the events of Age of X.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1296,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11144/111442876/9573045-c%27ct%27ct%27v%27%27.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/chamber/4005-2244/"
+  },
+  {
+    "id": 1802,
+    "name": "Elektra",
+    "real_name": "Elektra Natchios",
+    "deck": "The lethal scarlet assassin. Daredevil's most fearsome enemy as well as his former lover and most renowned as being the greatest assassin in the world.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1291,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/7823934-dd2019029_cov-scaled.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/elektra/4005-1802/"
+  },
+  {
+    "id": 4647,
+    "name": "Bullseye",
+    "real_name": "Lester",
+    "deck": "A deadly killer for hire capable of using practically anything as a lethal projectile weapon with flawless accuracy and deadly force. He is one of the most psychotic and sadistic characters in Marvel and serves as one of Daredevil's most dangerous foes.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1228,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11156/111564182/9103519-bullseyechechettoclone.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/bullseye/4005-4647/"
+  },
+  {
+    "id": 3316,
+    "name": "Hellcat",
+    "real_name": "Patricia Walker",
+    "deck": "Patsy Walker had long idolized super heroes and after given the chance of a lifetime became 'Hellcat'. She is one of Marvel's oldest characters, dating back to her 'romantic' comic books in the 1940s. She has served on several incarnations of the Defenders and the Avengers.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1207,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8550081-ezgif-4-7a8d1f3962.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/hellcat/4005-3316/"
+  },
+  {
+    "id": 3172,
+    "name": "Black Knight",
+    "real_name": "Dane Garrett Whitman",
+    "deck": "The latest wielder of the Ebony Blade in a long line of heroes and villains known as the Black Knight. ",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1201,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/3/31666/4914803-blkknght2015001-cov-b778f.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/black-knight/4005-3172/"
+  },
+  {
+    "id": 2105,
+    "name": "Nova",
+    "real_name": "Richard Rider",
+    "deck": "Richard Rider was a young teenager when he was granted the power of a Nova Centurion. He would have many adventures both on his own and with his peers among the New Warriors; Richard even became a member of the Avengers ever so briefly. He eventually became Nova-Prime, leader of the Nova Corps, where he established himself as a universally cosmic hero of immense power.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1180,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9929763-large-5066211.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/nova/4005-2105/"
+  },
+  {
+    "id": 4484,
+    "name": "Scorpion",
+    "real_name": "MacDonald Gargan",
+    "deck": "MacDonald \"Mac\" Gargan was a failing private investigator that was turned into the Scorpion with financial help from J. Jonah Jameson. He became a host of the Venom symbiote and was part of Norman Osborn's Dark Avengers. After the US Government took the symbiote, he became The Scorpion once again.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1173,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11144/111442876/8759844-fgcte.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/scorpion/4005-4484/"
+  },
+  {
+    "id": 2126,
+    "name": "Rhino",
+    "real_name": "Aleksei Mikhailovich Sytsevich",
+    "deck": "A career criminal, the man known as Rhino has incredible strength and durability.  A long-time enemy of Spider-Man and the Incredible Hulk, Rhino isn't particularly malicious, and has tried on various occasions to leave behind his life of crime, but always seems to slide back into old habits.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1165,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8059019-amazing_spider-man_vol_5_14_textless.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/rhino/4005-2126/"
+  },
+  {
+    "id": 2497,
+    "name": "Mockingbird",
+    "real_name": "Barbara Morse",
+    "deck": "Dr. Barbara \"Bobbi\" Morse is an agent of S.H.I.E.L.D. and a founding member of West Coast Avengers. She's an excellent spy and biochemist. ",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1162,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/3/31666/4956373-mockingbird2015001-35c9d.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/mockingbird/4005-2497/"
+  },
+  {
+    "id": 2156,
+    "name": "Shatterstar",
+    "real_name": "Gaveedra Seven",
+    "deck": "A refugee from Mojoworld, Shatterstar came to earth and joined forces with Cable's New Mutants which soon transformed into X-Force. \nAlso a key former member of X-Factor Investigations.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1153,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9385567-shatterstar.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/shatterstar/4005-2156/"
+  },
+  {
+    "id": 4555,
+    "name": "Dust",
+    "real_name": "Sooraya Qadir",
+    "deck": "Dust was a student at the Xavier Institute and one of the New X-Men in training. She is identified by her Niqab, which she wears instead of the traditional X-Men uniform. She is currently enrolled at the Jean Grey School for Higher Learning.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1150,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9145743-dust.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/dust/4005-4555/"
+  },
+  {
+    "id": 2101,
+    "name": "Firestar",
+    "real_name": "Angelica Jones",
+    "deck": "Trained to be an assassin with her microwave-manipulating mutant powers, Angelica Jones instead grew to be the popular hero Firestar. A founding member of New Warriors, Firestar has also played a key role as part of the Avengers and X-Men.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1130,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9546621-large-4101929.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/firestar/4005-2101/"
+  },
+  {
+    "id": 3445,
+    "name": "Betty Ross",
+    "real_name": "Elizabeth Ross-Banner",
+    "deck": "The love of Bruce Banner's life, she has been one of the Hulk's greatest allies, though she is the daughter of his greatest enemy, General 'Thunderbolt' Ross. She has been transformed into the Harpy, died, and is now a Hulk herself although she lost her powers when Doctor Green, the new incarnation of the Hulk, injected her with the cure for Gamma Radiation. What's next in her life remains to be seen...",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1126,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11138/111385567/7609537-img_6391.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/betty-ross/4005-3445/"
+  },
+  {
+    "id": 4459,
+    "name": "Vulture",
+    "real_name": "Adrian Toomes",
+    "deck": "Swindled by his business partner out of his equal share of the profits from their company, Adrian Toomes set out for revenge by using a flying harness of his own design. He has however, met defeat several times at the hands of his arch-nemesis, The Amazing Spider-Man.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1126,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11144/111442876/8791113-gettgegs.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/vulture/4005-4459/"
+  },
+  {
+    "id": 3554,
+    "name": "Pyro",
+    "real_name": "St. John  Allerdyce",
+    "deck": "Pyro is a mutant with the psionic ability to manipulate flame.  He was a member of the Brotherhood of Evil Mutants &amp; Freedom Force.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1112,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9503016-large-6878401.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/pyro/4005-3554/"
+  },
+  {
+    "id": 1488,
+    "name": "Lizard",
+    "real_name": "Curtis Connors",
+    "deck": "During an experiment, Dr. Curtis Connors accidentally turned himself into a ferocious reptilian monster who seeks to turn humans into lizards like himself. The Lizard is one of Spider-Man’s oldest and deadliest foes while ironically, his alter ego is a close friend and former teacher of Spidey’s alter ego, Peter Parker.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1085,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11144/111442876/8791115-dfgeges.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/lizard/4005-1488/"
+  },
+  {
+    "id": 3124,
+    "name": "Foggy Nelson",
+    "real_name": "Franklin P. Nelson",
+    "deck": "Matt Murdock's best friend and almost as good a lawyer as Matt himself. They work together in their own law firm.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1080,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/3/31666/4400193-dd2014016cov-6007c.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/foggy-nelson/4005-3124/"
+  },
+  {
+    "id": 4653,
+    "name": "Gladiator",
+    "real_name": "Kallark",
+    "deck": "Kallark, codenamed Gladiator, was once the Praetor of the Shi'ar Imperial Guard, the most faithful servant of the Shi'ar throne. After the Shi'ar-Kree War, with the apparent death of Lilandra and Vulcan, Kallark is elevated to the position of Majestor by consensus of a desperate Shi'ar populace.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1070,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/3/33913/1068766-90_realm_of_kings__imperial_guard_02.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/gladiator/4005-4653/"
+  },
+  {
+    "id": 3423,
+    "name": "Callisto",
+    "real_name": null,
+    "deck": "Callisto is the former leader of the Morlocks. After M-Day, she lost her powers, but recently she recovered them back.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1069,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11114/111141742/7246235-marauders_vol_1_7_textless.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/callisto/4005-3423/"
+  },
+  {
+    "id": 2635,
+    "name": "Mephisto",
+    "real_name": "Mephisto",
+    "deck": "A sadistic, cruel, and dangerous extra-dimensional demon with unknown origins, Mephisto is incredibly powerful. Based on Mephistopheles, a demon from the Faust legend, Mephisto is known for stealing souls and torturing them in his hell-like dimension. He is one of the many Hell-Lords in the Marvel Universe.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1067,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11/117763/3323865-universe01001.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/mephisto/4005-2635/"
+  },
+  {
+    "id": 3228,
+    "name": "Electro",
+    "real_name": "Maxwell Dillon",
+    "deck": "One of Spider-Man's most dangerous enemies, the electric human dynamo known as Electro has constantly been a major threat for the Amazing Spider-Man.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1059,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11144/111442876/8791114-fbege.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/electro/4005-3228/"
+  },
+  {
+    "id": 3189,
+    "name": "Aurora",
+    "real_name": "Jeanne-Marie Beaubier",
+    "deck": "Aurora, the twin sister of Northstar, was a founding member of Alpha Flight. She also suffers from dissociative identity disorder, which often causes her to be caught in precarious situations.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1040,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15776/10169610-aurora.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/aurora/4005-3189/"
+  },
+  {
+    "id": 3513,
+    "name": "Volstagg",
+    "real_name": "Volstagg",
+    "deck": "An Asgardian friend and ally of Thor. Volstagg is an essential part of the Warriors Three and is known for his mighty size that is only exceeded by his good nature and humor.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1034,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/5/55328/2939843-volstaag.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/volstagg/4005-3513/"
+  },
+  {
+    "id": 2215,
+    "name": "Wong",
+    "real_name": "Wong",
+    "deck": "Wong is Dr. Strange's assistant, friend, and defender. He has helped a number of other heroes, like Spider-Man, by providing them with information.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1012,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8942951-ezgif-3-a75858db66.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/wong/4005-2215/"
+  },
+  {
+    "id": 2475,
+    "name": "Kraven the Hunter",
+    "real_name": "Sergei Kravinoff",
+    "deck": "A famous big game hunter, who became a mercenary and later, developed an intense obsession with restoring honor to his name. Kraven has been known as a major threat for Spider-Man and leaving a legacy during his demise.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1011,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11125/111253436/6733787-b.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/kraven-the-hunter/4005-2475/"
+  },
+  {
+    "id": 2163,
+    "name": "Frenzy",
+    "real_name": "Joanna Cargill",
+    "deck": "A former freelance mercenary that worked for Apocalypse, Frenzy joined Magneto as a member of the Acolytes and served as ambassador of Genosha. She joined the X-Men after the Age of X.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1010,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11144/111442876/9595672-ygkfkfg%3Bc.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/frenzy/4005-2163/"
+  },
+  {
+    "id": 4552,
+    "name": "Elixir",
+    "real_name": "Joshua Foley",
+    "deck": "Elixir was one of the students at Xavier Institute and is known for his ability of biological manipulation which allows him to both restore life or take it on a whim, and is capable of incredible feats being one of the few active and confirmed Omega-level mutants. He is now a part of the New Mutant nation of Krakoa as a member of the Five.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 1006,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/8953510-9297761093-latest.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/elixir/4005-4552/"
+  },
+  {
+    "id": 4567,
+    "name": "Exodus",
+    "real_name": "Bennet du Paris",
+    "deck": "A powerful mutant from the Crusades. Former follower of Magneto and leader of the Acolytes, now he is a member of the Quiet Council of Krakoa. ",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 996,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/6/60598/2158098-hjkl_.png",
+    "site_detail_url": "https://comicvine.gamespot.com/exodus/4005-4567/"
+  },
+  {
+    "id": 1454,
+    "name": "Sentry",
+    "real_name": "Robert \"Bob\" Reynolds",
+    "deck": "After ingesting an experimental super-soldier formula, the lowly Robert Reynolds became the Sentry, if only in his mind.\nIn constant battle with his dark side known as the Void, the Sentry has been forgotten and dead, he has resurrected and vanished. Even if he is one of earth's greatest heroes, he is also one of the world's greatest dangers.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 990,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11142/111420471/7773743-sentry5.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/sentry/4005-1454/"
+  },
+  {
+    "id": 1478,
+    "name": "Sasquatch",
+    "real_name": "Walter Langkowski",
+    "deck": "A long-time member of Alpha Flight, Walter Langkowski has the ability to transform at will into the fearsome and powerful Sasquatch. He gained his powers while trying to duplicate the conditions that had created the Hulk, but inadvertently fused his body with the essence of the Great Beast, Tanaraq, instead.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 977,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/7899724-rco012_1617797576.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/sasquatch/4005-1478/"
+  },
+  {
+    "id": 4337,
+    "name": "Alicia Masters",
+    "real_name": "Alicia Reiss Grimm",
+    "deck": "A blind sculptor and friend of the Fantastic Four. She is married to Ben Grimm, the Thing, and is also the stepdaughter of the supervillain Puppet Master.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 975,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15659/2266504-alicia_masters_edited_ff_5.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/alicia-masters/4005-4337/"
+  },
+  {
+    "id": 4799,
+    "name": "Ben Urich",
+    "real_name": "Benjamin Urich",
+    "deck": "A former investigative journalist for the Daily Bugle and current owner of the newspaper Front Line who uses his friendships with Daredevil and Spider-Man to get information on criminals.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 975,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9279027-rco022_1697656161.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/ben-urich/4005-4799/"
+  },
+  {
+    "id": 5010,
+    "name": "Puck",
+    "real_name": "Eugene Milton Judd",
+    "deck": "The bouncing and dwarfish dynamo of Alpha Flight, the good natured Puck is the heart and soul of the team. He had recently joined Psylocke and Storms' Uncanny X-Force but has now returned to Alpha Flight working in space.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 958,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8237660-large-3331671%281%29.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/puck/4005-5010/"
+  },
+  {
+    "id": 1472,
+    "name": "Captain Marvel",
+    "real_name": "Mar-Vell",
+    "deck": "A captain in the Kree militia, Mar-Vell rebelled against a racist tyrannical empire to defend Earth and in so doing became the \"Protector of the Universe\" known as Captain Marvel. Since his tragic death to cancer, Captain Marvel has inspired many superheroes and heroines and his legacy is still felt throughout the Marvel universe.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 952,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8268357-captain_marvel_vol_10_34_teaser_virgin_variant.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/captain-marvel/4005-1472/"
+  },
+  {
+    "id": 1474,
+    "name": "Cloak",
+    "real_name": "Tyrone Johnson",
+    "deck": "Tyrone Johnson is the \"dark\" half of the vigilante duo known as Cloak and Dagger. After a drug-related experiment awakened his powers, he became a living personification of darkness. Cloak is the Yin to his partner Dagger's Yang. Superheroes of the streets, Cloak and Dagger wage a war against dangerous drugs and drug-related crimes.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 948,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/0/77/581794-cloak___dagger_walter_oneal01.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/cloak/4005-1474/"
+  },
+  {
+    "id": 3558,
+    "name": "Ka-Zar",
+    "real_name": "Kevin Reginald Plunder",
+    "deck": "The son of an English nobleman, Ka-Zar grew up in the Savage Land alongside his loyal partner/surrogate parent Zabu after the death of his father.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 947,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15776/10147061-ka-zar.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/ka-zar/4005-3558/"
+  },
+  {
+    "id": 4281,
+    "name": "Fantomex",
+    "real_name": "Charlie Cluster 7",
+    "deck": "Fantomex is a highly evolved and technologically advanced mutate, developed by the Weapons Plus program to be Weapon Xlll. He is highly cunning, skilled in misdirection, and has a ship that is an extension of his nervous system named E.V.A.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 915,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/3/31666/3670001-x_force__4_by_zurdom-d779y0z.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/fantomex/4005-4281/"
+  },
+  {
+    "id": 3511,
+    "name": "Hogun",
+    "real_name": "Hogun",
+    "deck": "Part of the Warriors Three along with Volstagg and Fandral, and good friend to Thor, Hogun is a short-tempered Asgardian.  He is a skilled battlefield warrior, a great horseman, and a master of weapons. He prefers the use of a mace when battling his enemies.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 913,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/2/27002/504892-hugun_thor_4_dcp_026.png",
+    "site_detail_url": "https://comicvine.gamespot.com/hogun/4005-3511/"
+  },
+  {
+    "id": 3512,
+    "name": "Fandral",
+    "real_name": "Fandral",
+    "deck": "Fandral the Dashing is a charter member of the Warriors Three, a trio of Asgardian adventurers consisting of Fandral, Hogun the Grim, and Volstagg the Valiant. They are members of the supporting cast in Marvel's Thor comics and usually provide comic relief and side-adventures.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 912,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/6/62795/5714972-fandral.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/fandral/4005-3512/"
+  },
+  {
+    "id": 3534,
+    "name": "Lockjaw",
+    "real_name": "Lockjaw",
+    "deck": "An Inhuman dog with the abilities of incredible teleportaton feats as well as other abilities. Serving the Inhuman Royal Family as their escort and teleportation means, Lockjaw is a loyal protector.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 911,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/3/33913/1185917-85880661.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/lockjaw/4005-3534/"
+  },
+  {
+    "id": 2264,
+    "name": "Kang",
+    "real_name": "Nathaniel Richards",
+    "deck": "A time-traveling conqueror with vast powers and technological supremacy, Kang the Conqueror has taken every opportunity to torment the Marvel Universe, and is one of the Avengers' greatest foes. Kang has amassed an empire with a citizenry of millions, and cut a swath of terror through the ages with his various aliases like: Rama-Tut, Immortus, Scarlet Centurion, Iron Lad, and Myrddin.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 909,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11144/111442876/8759833-thet.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/kang/4005-2264/"
+  },
+  {
+    "id": 4988,
+    "name": "Man-Thing",
+    "real_name": "Theodore Sallis",
+    "deck": "Man-Thing is a powerful swamp creature and guardian of the Nexus of all Realities. He was once human and turned himself into a monster as a last act of defense and a way too avoid his serum falling in the wrong hands.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 903,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/6/68065/8304734-0bb.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/man-thing/4005-4988/"
+  },
+  {
+    "id": 4330,
+    "name": "Gorgon",
+    "real_name": "Gorgon Petragon",
+    "deck": "As a result of being exposed to the Terrigen Mist when he was an infant, Gorgon developed hooved feet and a powerful lower body.  His legs are so powerful that with a single stomp, he can create shock tremors to disable his opponents.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 899,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11112/111123579/6157963-gorgon%204.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/gorgon/4005-4330/"
+  },
+  {
+    "id": 1491,
+    "name": "Misty Knight",
+    "real_name": "Mercedes Knight",
+    "deck": "A former NYPD cop with a bionic arm, martial arts skills, and an attitude who was involved with the Heroes for Hire operation for years.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 897,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/10/100647/5446087-jgbxv69.png",
+    "site_detail_url": "https://comicvine.gamespot.com/misty-knight/4005-1491/"
+  },
+  {
+    "id": 3557,
+    "name": "Destiny",
+    "real_name": "Irene Adler",
+    "deck": "A blind woman with precognitive mutant-powers. Destiny was part of the Brotherhood of (Evil) Mutants and one of the few people Mystique truly loved. She was killed by Legion.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 895,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11155/111551850/8552262-axejudgment2022005_women_axe_var.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/destiny/4005-3557/"
+  },
+  {
+    "id": 1935,
+    "name": "Dagger",
+    "real_name": "Tandy Bowen",
+    "deck": "Tandy Bowen is the \"light\" half of the vigilante duo known as Cloak &amp; Dagger.  After a drug-related experiment awakened her powers, she became a living personification of light, with the ability to generate super-luminosity at will and use it both offensively and defensively.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 891,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9431328-large-5801798.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/dagger/4005-1935/"
+  },
+  {
+    "id": 2242,
+    "name": "Ultron",
+    "real_name": "Ultron",
+    "deck": "Created by the Scientist Henry Pym to be a technological landmark, Ultron soon intellectually surpassed his \"father\" and eventually fought the Avengers after organizing the Masters of Evil. He has clashed with the Avengers numerous times, driven by his hatred of all organic life and his desire to witness its total destruction. ",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 889,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11144/111442876/8759824-fggfsgs.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/ultron/4005-2242/"
+  },
+  {
+    "id": 3279,
+    "name": "Moonstone",
+    "real_name": "Karla Sofen",
+    "deck": "Dr. Karla Sofen is a founding member of the Thunderbolts and a former member of the Masters of Evil. She has flirted with both sides of the law in Norman Osborn's Avengers as Ms. Marvel. She's a control freak with nearly limitless power granted her by moonstones, hence her codename.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 870,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/9/96747/6853702-giantman2019003-cov.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/moonstone/4005-3279/"
+  },
+  {
+    "id": 2265,
+    "name": "Jessica Jones",
+    "real_name": "Jessica Campbell Jones Cage",
+    "deck": "A superhero turned private invesitgator, Jessica is married to Luke Cage and is the mother of Danielle, their infant daughter.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 859,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/3/31666/5490535-jj-var-4-1.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/jessica-jones/4005-2265/"
+  },
+  {
+    "id": 4441,
+    "name": "Abigail Brand",
+    "real_name": "Abigail Thanriaguiaxus",
+    "deck": "The director of S.W.O.R.D.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 848,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/7654472-brand-2.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/abigail-brand/4005-4441/"
+  },
+  {
+    "id": 4315,
+    "name": "Doc Samson",
+    "real_name": "Leonard Samson",
+    "deck": "Gamma-irradiated friend, rival, and psychiatrist of Bruce Banner. Once possessing the superhuman strength equivalent to a relatively calm Hulk, Leonard is now more powerful than ever as his darker alter-ego Samson. Incalculable strength, virtually limitless endurance and an extremely high degree of durability.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 832,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/7792857-rco012_1612370312.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/doc-samson/4005-4315/"
+  },
+  {
+    "id": 2481,
+    "name": "Mole Man",
+    "real_name": "Harvey Rupert Elder",
+    "deck": "The Mole Man! A nearly blind inhabitant of the nether regions of Earth! Using his strange \"radar sense\" instead of eyesight, aided by an awesome group of underearth monsters, this bitter, brooding man years ago left Earth's surface because of his hatred for mankind, and set up an underground empire!",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 822,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/7282729-rco001_1584547746.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/mole-man/4005-2481/"
+  },
+  {
+    "id": 1779,
+    "name": "Absorbing Man",
+    "real_name": "Carl Creel",
+    "deck": "An extremely violent boxer turned criminal, Loki bestowed his powers upon him, and he was transformed into the Absorbing Man, granting him powers to absorb any material and take on its properties. He is the on-again-off-again husband of Titania, and an enemy of Thor and Hulk.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 821,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/8/86187/1780243-absorbing_man_by_chriss2d.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/absorbing-man/4005-1779/"
+  },
+  {
+    "id": 3422,
+    "name": "Dark Beast",
+    "real_name": "Henry Philip McCoy",
+    "deck": "A darker and more twisted version of Hank McCoy from the Age of Apocalypse reality.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 808,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/12503/322271-83734-beast.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/dark-beast/4005-3422/"
+  },
+  {
+    "id": 3553,
+    "name": "Avalanche",
+    "real_name": "Dominikos Ioannis Petrakis",
+    "deck": "A former member of the new Brotherhood of Evil Mutants and Freedom Force.  Avalanche has the ability to create vibratory waves that affects inorganic matter.  He often uses his power to affect the earth.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 805,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15776/9772642-avalanche.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/avalanche/4005-3553/"
+  },
+  {
+    "id": 3196,
+    "name": "Mariko Yashida",
+    "real_name": "Mariko Yashida",
+    "deck": "Known as Wolverine's true love, she was mercy killed by him after she was poisoned.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 805,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11156/111564182/9353472-marikopeachmomoko.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/mariko-yashida/4005-3196/"
+  },
+  {
+    "id": 2176,
+    "name": "Selene",
+    "real_name": "Selene Gallio",
+    "deck": "Selene is the oldest living mutant, born 17,000 years ago. She is a notable villain of the X-Men, often opposing them in her position as the Black Queen of the Hellfire Club. Her ultimate goal is to become a goddess through the life absorption of other mutants.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 802,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9710213-5468807337-latest.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/selene/4005-2176/"
+  },
+  {
+    "id": 4578,
+    "name": "Taskmaster",
+    "real_name": "Anthony Masters",
+    "deck": "Taskmaster possesses the ability to absorb knowledge and instantly replicate the combat skills of anyone he observes. He has used these skills as a teacher to many super villains, henchmen, and even some heroes. In order to clean his record, he started working for the U.S. government as a combat instructor. Due to a set of events, he was ultimately put in as sheriff of the criminal island known as Bagalia. He currently serves as Madame Hydra's personal bodyguard.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 800,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11156/111564182/8976458-taskmaster-therubicontrigger-109.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/taskmaster/4005-4578/"
+  },
+  {
+    "id": 4333,
+    "name": "Mysterio",
+    "real_name": "Quentin Beck",
+    "deck": "Mysterio was a formidable foe to Spider-Man. So much so that his arts of illusion were carried on by others after the original Mysterio's death. The original Mysterio, Quentin Beck, has recently returned. The events behind his resurrection are currently shrouded in mystery.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 798,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/3/33913/997983-113_web_of_spider_man_4.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/mysterio/4005-4333/"
+  },
+  {
+    "id": 4832,
+    "name": "Nighthawk",
+    "real_name": "Kyle Richmond",
+    "deck": "Kyle Richmond was a thrill-seeking playboy who became the costumed adventurer Nighthawk. Starting out as a villain, Richmond soon found altruism a greater pursuit. As Nighthawk, he became mainstay of the Defenders, and has also acted alongside the Squadron Supreme, the Redeemers, the Thunderbolts and the Initiative.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 797,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8006494-heroes_reborn_vol_2_5_trading_card_variant.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/nighthawk/4005-4832/"
+  },
+  {
+    "id": 1490,
+    "name": "Carnage",
+    "real_name": "Carnage",
+    "deck": "Carnage is the offspring of the alien symbiote Venom. It bonded with the crazed serial killer, Cletus Kasady, thus creating one of Spider-Man's most murderous, brutal, and lethal adversaries.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 784,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8056391-extreme_carnage_alpha_vol_1_1_lee_retailer_shared_exclusive_virgin_variant.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/carnage/4005-1490/"
+  },
+  {
+    "id": 4263,
+    "name": "Pepper Potts",
+    "real_name": "Virginia Potts",
+    "deck": "Virginia \"Pepper\" Potts was originally the executive assistant to Anthony Stark, a.k.a. Iron Man, with whom she has been romantically linked. Recently, thanks to some cybernetic enhancements and her own suit of armor, she has become the armored hero known as Rescue.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 764,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/7265854-jan200891.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/pepper-potts/4005-4263/"
+  },
+  {
+    "id": 2104,
+    "name": "Speedball",
+    "real_name": "Robert Baldwin",
+    "deck": "After being given kinetic energy based powers in a laboratory accident, Robbie Baldwin became the hero Speedball. He blamed himself for the Stamford tragedy and briefly remodeled himself as Penance. Returned to the Speedball alias, he continues to atone for his past while trying to restart the New Warriors.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 756,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8325947-robert_baldwin_%2528earth-616%2529_from_new_warriors_vol_5_10.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/speedball/4005-2104/"
+  },
+  {
+    "id": 3193,
+    "name": "Leech",
+    "real_name": null,
+    "deck": "A former Morlock and frequent friend of the X-Men. The green-skinned Leech was orphaned as a toddler. His parents left him to die when his mutations became apparent. He has the power to negate all superhuman abilities within 10 yards of him.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 747,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11112/111123579/7145310-leech.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/leech/4005-3193/"
+  },
+  {
+    "id": 5047,
+    "name": "Guardian",
+    "real_name": "James MacDonald Hudson",
+    "deck": "James MacDonald Hudson was the original Guardian and the first leader, and creator, of Alpha Flight. He seemingly perished in the midst of battle and his widow, Vindicator, took over the reigns of leadership after his death. He has since returned and is once again the leader of Alpha Flight.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 742,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11/114183/6654266-james_hudson_%28earth-616%29_from_amazing_x-men_vol_2_8_001.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/guardian/4005-5047/"
+  },
+  {
+    "id": 3709,
+    "name": "M.O.D.O.K.",
+    "real_name": "George Tarleton",
+    "deck": "M.O.D.O.K. is an acronym for Mental Organism Designed Only for Killing. He has a plethora of psychic powers, which he used to take control of A.I.M.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 742,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/7695119-rco009_1606920199.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/modok/4005-3709/"
+  },
+  {
+    "id": 4568,
+    "name": "Black Tom Cassidy",
+    "real_name": "Thomas Samuel Eamon Cassidy",
+    "deck": "A mutant criminal, Sean Cassidy's cousin, and the Juggernaut's former partner.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 738,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/9/96747/7283107-cassidy1.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/black-tom-cassidy/4005-4568/"
+  },
+  {
+    "id": 3556,
+    "name": "Donald Pierce",
+    "real_name": "Donald Pierce",
+    "deck": "Donald Pierce is a cyborg and former member of the Hellfire Club. He also led the Reavers.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 726,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15776/10154422-donald_pierce.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/donald-pierce/4005-3556/"
+  },
+  {
+    "id": 3114,
+    "name": "Uncle Ben",
+    "real_name": "Benjamin Parker",
+    "deck": "Peter Parker's uncle and the father figure whose death was the main inspiration for Peter becoming Spider-Man. Ben Parker taught Peter that with great power comes great responsibility.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 707,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/10/103530/6406850-qwadf.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/uncle-ben/4005-3114/"
+  },
+  {
+    "id": 2262,
+    "name": "Kate Bishop",
+    "real_name": "Katherine Elizabeth Bishop",
+    "deck": "Inspired by Clint Barton, Kate took up the mantle of Hawkeye and became a member of the Young Avengers. When Clint returned, the two of them struck up an on-again, off-again partnership, with Clint supporting her as she becomes more and more involved in the world of the Avengers. ",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 705,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/10/100647/5505344-bpsyxk4ciyn8odvaxpoj.png",
+    "site_detail_url": "https://comicvine.gamespot.com/kate-bishop/4005-2262/"
+  },
+  {
+    "id": 2470,
+    "name": "Valeria Richards",
+    "real_name": "Valeria Meghan Richards",
+    "deck": "Valeria is the daughter of Sue and Reed Richards and sister to Franklin Richards.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 704,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11112/111123579/7033575-valeria_richards_%2528earth-616%2529_from_fantastic_four_vol_6_10_001.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/valeria-richards/4005-2470/"
+  },
+  {
+    "id": 5017,
+    "name": "Shaman",
+    "real_name": "Michael Twoyoungmen",
+    "deck": "Dr Michael Twoyoungmen is a powerful shaman and a founding member of Alpha Flight.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 691,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11/117763/2489286-shaman_cover_high_res.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/shaman/4005-5017/"
+  },
+  {
+    "id": 2216,
+    "name": "Clea",
+    "real_name": "Clea",
+    "deck": "Clea is the heroic daughter of Umar and the niece of Dormammu. She is also Doctor Strange's estranged wife and was the ruler of The Dark Dimension until her Uncle usurped her throne and regained his.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 686,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9038127-ezgif-4-abb3ed05da.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/clea/4005-2216/"
+  },
+  {
+    "id": 2174,
+    "name": "Thunderbird",
+    "real_name": "John Proudstar",
+    "deck": "John \"Thunderbird\" Proudstar was chosen by Professor Charles Xavier as a member of the second generation of X-Men. Not long after joining, he became the first X-Man to die in action.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 682,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11155/111551850/8516607-img-9920.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/thunderbird/4005-2174/"
+  },
+  {
+    "id": 3319,
+    "name": "Quasar",
+    "real_name": "Wendell Elvis Vaughn",
+    "deck": "A former agent of SHIELD, Wendell Vaughn is a cosmic-powered superhero known as Quasar. Equipped with energy-manipulating Quantum Bands, Quasar was appointed Captain Marvel's successor as Protector of the Universe by Eon, and has been a valued member of the Avengers and ally to the Guardians of the Galaxy. In the past, he was in charge of Project PEGASUS, led the short-lived teams the Starmasters and the Annihilators, and acted as Avatar of Infinity.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 680,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11119/111198274/7237057-32188461_282939552461541_3208543760719806464_n.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/quasar/4005-3319/"
+  },
+  {
+    "id": 3420,
+    "name": "Viper",
+    "real_name": "Ophelia Sarkissian",
+    "deck": "Viper aka Madame Hydra is the former terrorist leader of HYDRA and an enemy of Captain America, Spider-Woman and Wolverine among many others. While she is not the ruler of Madripoor, she did - or does - own it.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 676,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/2/25835/1039666-tumblr_krttk6azud1qzs9o3.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/viper/4005-3420/"
+  },
+  {
+    "id": 3508,
+    "name": "Heimdall",
+    "real_name": "Heimdall",
+    "deck": "The Norse God of Vigilance, Protection and Light, and the guardian of the rainbow bridge Bifrost which links Asgard to the rest of the Nine Worlds.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 661,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11/111746/8123867-heimdall_%28earth-616%29_from_mighty_thor_vol_2_2_001.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/heimdall/4005-3508/"
+  },
+  {
+    "id": 2252,
+    "name": "Wrecker",
+    "real_name": "Dirk Garthwait",
+    "deck": "Founder of the Wrecking Crew, Dirk Garthwaite was committing a crime with a crowbar, when he unknowingly robbed a hotel room occupied by a power-stripped Loki, where the villain then accidentally instilled Wrecker and his crowbar with divine Asgardian powers.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 660,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9860590-ezgif-2495ac9533f5a4.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/wrecker/4005-2252/"
+  },
+  {
+    "id": 5009,
+    "name": "Heather McNeil Hudson",
+    "real_name": "Heather McNeil Hudson",
+    "deck": "Heather McNeil took over the leadership of Alpha Flight following the death of her husband Guardian, through the use of his Battle Suit. After her husband was revived and resumed the role of Guardian, Heather became the Vindicator and continued to be a member of Alpha Flight.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 653,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/0/3347/1872533-vindicator_1.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/heather-mcneil-hudson/4005-5009/"
+  },
+  {
+    "id": 3180,
+    "name": "Sauron",
+    "real_name": "Karl Lykos",
+    "deck": "Bitten at a young age by a mutant Pteranodon, Karl Lykos is an energy vampire forced to absorb the life out of victims to survive. \n\nIf he absorbs the life of a mutant, he transforms into the insidious were-pterodactyl Sauron.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 636,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11/117763/3149706-weaponx00207.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/sauron/4005-3180/"
+  },
+  {
+    "id": 2165,
+    "name": "Proteus",
+    "real_name": "Kevin MacTaggert",
+    "deck": "The insane son of Moira MacTaggert, Proteus is a mutant with the power to warp the fabric of reality itself. He must constantly hop from body to body, as the energies he controls burn out living flesh rapidly.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 635,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/3/33913/1028996-128_x_men_legacy_233.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/proteus/4005-2165/"
+  },
+  {
+    "id": 3537,
+    "name": "Zabu",
+    "real_name": "Zabu",
+    "deck": "Zabu is a sabretooth, Ka Zar's mentor, raising him and teaching him the ways of the Savage Land.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 631,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15776/821330-zabu.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/zabu/4005-3537/"
+  },
+  {
+    "id": 4822,
+    "name": "Abe Jenkins",
+    "real_name": "Abner Ronald Jenkins",
+    "deck": "Growing tired of his mechanic job, Abe Jenkins created a suit of armor and became the Beetle. Originally a criminal, he changed his ways as a member of the Thunderbolts, Taking the name MACH-1.  Abe became a mainstay of the group and achieved legitimacy as a superhero.  As he's upgraded his armor, he's changed his name to reflect the version of his armor.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 626,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11125/111252513/5552800-thunderbolts34001.png",
+    "site_detail_url": "https://comicvine.gamespot.com/abe-jenkins/4005-4822/"
+  },
+  {
+    "id": 4342,
+    "name": "Hela",
+    "real_name": "Hel",
+    "deck": "Hela is the Norse Goddess of Death and ruler of Hel and Niffleheim.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 620,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/3/33913/1466090-14_avengers_prime_5_adams_variant_.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/hela/4005-4342/"
+  },
+  {
+    "id": 3178,
+    "name": "Trish Tilby",
+    "real_name": "Patricia Tilby",
+    "deck": "A reporter who took special interest in mutant affairs, she was responsible for releasing the news on the Legacy Virus to the world. She also had a long time relationship with X-Man/Avenger Hank McCoy AKA Beast.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 619,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/0/9241/269301-47720-trish-tilby.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/trish-tilby/4005-3178/"
+  },
+  {
+    "id": 3287,
+    "name": "Wizard",
+    "real_name": "Bentley Wittman",
+    "deck": "An evil genius and leader of the Frightful Four.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 611,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/7/79709/2236209-wizard_classic_figs_colour.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/wizard/4005-3287/"
+  },
+  {
+    "id": 2160,
+    "name": "Feral",
+    "real_name": "Maria Callasantos",
+    "deck": "Feral by power, nature and name. Maria Callasantos's life was dredged in mystery, deceit, and death. Once a member of X-Force, Hellions and X-Corporation, she is trying to live a new life on Krakoa.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 610,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9413891-3476480619-2d405.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/feral/4005-2160/"
+  },
+  {
+    "id": 4456,
+    "name": "John Jameson",
+    "real_name": "John Jonah Jameson III",
+    "deck": "John Jameson is an astronaut, a test pilot and for his father J. Jonah Jameson the archetype of a true hero unlike these “masked clowns” like Spider-man. John has also been transformed into a Werewolf-like creature called the Man-Wolf, and was once host to the Carnage Symbiote.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 609,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11174/111743204/8923772-manwolf.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/john-jameson/4005-4456/"
+  },
+  {
+    "id": 4811,
+    "name": "Justice",
+    "real_name": "Vance Astrovik",
+    "deck": "Vance Astrovik is a mutant with the power of Telekinesis.  He first called himself Marvel Boy but later changed his name to Justice.\nHis is a founding member of the New Warriors, fulfilled his dream of becoming an Avengers and helped train young heroes at the Avengers Academy.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 609,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/0/5344/4256878-justice%2001.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/justice/4005-4811/"
+  },
+  {
+    "id": 4825,
+    "name": "Shocker",
+    "real_name": "Herman Schultz",
+    "deck": "Shocker is a supervillain originating from Marvel Comics.  A self-taught engineer, Herman Schultz created a pair of gauntlets that produces shock waves incorporated into a suit that protects him from the impact of of the blasts. He is a recurring foe of the superhero Spider-Man.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 608,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9999817-asmvenomdsbodycount2026001_coello_connecting_complete.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/shocker/4005-4825/"
+  },
+  {
+    "id": 4556,
+    "name": "Lila Cheney",
+    "real_name": "Lila Cheney",
+    "deck": "Lila Cheney is an interstellar rock star mutant who can teleport between planets.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 596,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9427612-3714510578-3df14.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/lila-cheney/4005-4556/"
+  },
+  {
+    "id": 3194,
+    "name": "Skids",
+    "real_name": "Sally Blevins",
+    "deck": "Skids is a mutant who has the power to form force fields and was romantically involved with the mutant Rusty Collins before his death.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 593,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11112/111123579/6257083-skids.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/skids/4005-3194/"
+  },
+  {
+    "id": 2205,
+    "name": "Dormammu",
+    "real_name": null,
+    "deck": "Dormammu is the older twin brother of Umar and Ruler of the Dark Dimension, a being of immense mystical power. He uses his vast powers to conquer other universes and dimensions, earning himself the enmity of Doctor Strange in the process.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 591,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9713891-6127585660-latest.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/dormammu/4005-2205/"
+  },
+  {
+    "id": 3281,
+    "name": "Songbird",
+    "real_name": "Melissa Joan Gold",
+    "deck": "Songbird is a founding member of the original Thunderbolts. She was formerly known as the super villain Screaming Mimi.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 591,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/0/5344/5319208-songbird%2002.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/songbird/4005-3281/"
+  },
+  {
+    "id": 4446,
+    "name": "Dr. Kavita Rao",
+    "real_name": "Kavita Rao",
+    "deck": "Dr. Kavita Rao is a world-renowned geneticist who managed to develop a 'cure' for those affected by the x-gene. She is currently a member of the X-Club, allied with Cyclops and the X-Men of Utopia.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 588,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/0/9241/792138-001.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/dr-kavita-rao/4005-4446/"
+  },
+  {
+    "id": 3133,
+    "name": "Julie Power",
+    "real_name": "Julie Power",
+    "deck": "Julie Power, also known as \"Lightspeed\" of the superhero group Power Pack. A bright and intelligent girl who is fascinated by all the world has to offer.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 572,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/13/134753/9784765-img_5721.jpeg",
+    "site_detail_url": "https://comicvine.gamespot.com/julie-power/4005-3133/"
+  },
+  {
+    "id": 3489,
+    "name": "Abomination",
+    "real_name": "Emil Blonsky",
+    "deck": "Craving for the power of a Hulk, Emil Blonsky purposely had himself infected with triple the amount of gamma that the Hulk originally had. However, it turned him into a monstrous amphibious reptoid as being originally more than twice the strength of the normal calm Hulk, at the cost of never being human again.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 570,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8069198-rco022_1626872922.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/abomination/4005-3489/"
+  },
+  {
+    "id": 3278,
+    "name": "Baron Helmut Zemo",
+    "real_name": "Helmut J. Zemo",
+    "deck": "The 13th Baron in the Zemo bloodline. Helmut followed in the footsteps of his father before him, becoming an enemy of Captain America and the Avengers. In what could be his greatest scheme ever, Helmut masqueraded as Citizen V and led the Thunderbolts to public acclaim in order to conquer the world. In the end, he failed only because his cohorts desired to remain heroes and rebelled against him.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 569,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11156/111564182/9796396-zemoimmonenre-size.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/baron-helmut-zemo/4005-3278/"
+  },
+  {
+    "id": 2113,
+    "name": "Namorita",
+    "real_name": "Namorita",
+    "deck": "Namorita is the cousin of savage Namor the Sub-Mariner. She was a prominent member of the New Warriors since their inception. However, some may say she was the cause for her and her teammates to die in the catalyst explosion of the Civil War. She recently returned displaced from time.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 569,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11112/111123579/7749973-namorita1.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/namorita/4005-2113/"
+  },
+  {
+    "id": 2259,
+    "name": "Hulkling",
+    "real_name": "Dorrek VIII",
+    "deck": "Teddy is a half-Kree, half-Skrull alien raised as a human. He took the name Hulkling when he joined the Young Avengers and commands the newly formed Kree/Skrull Alliance.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 567,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/7838808-rco042_1594822603.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/hulkling/4005-2259/"
+  },
+  {
+    "id": 3421,
+    "name": "Omega Sentinel",
+    "real_name": "Karima Shapandar",
+    "deck": "Karima Shapandar is a human Sentinel. Freed of her mutant extermination protocols, she struggles to maintain what little humanity she has remaining.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 562,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11140/111401985/7113332-omega%20sentinel%20%28karima%20shapandar%29.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/omega-sentinel/4005-3421/"
+  },
+  {
+    "id": 2118,
+    "name": "Sersi",
+    "real_name": null,
+    "deck": "Sersi is an Eternal. She is the daughter of Helios and Perse. Sersi is the only fifth level adept, the highest possible, among the Eternals in the discipline of matter rearrangement. Amongst the Eternals it's said that even Prime-Eternal Zuras, mightiest of all Eternals, fears the power of Sersi.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 556,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11116/111167641/7782837-sersi_jscottcampbell-art.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/sersi/4005-2118/"
+  },
+  {
+    "id": 1447,
+    "name": "Layla Miller",
+    "real_name": "Layla Rose Miller",
+    "deck": "Originally a key figure in the House of M, Layla Miller is a mutant who joined X-Factor Investigations after M-Day and eventually married its founder, Jamie Madrox. She is famous for her catch phrase \"I know stuff\", which stems from her comprehensive knowledge of future events. ",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 553,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/10/101742/2152106-lay.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/layla-miller/4005-1447/"
+  },
+  {
+    "id": 2488,
+    "name": "Squirrel Girl",
+    "real_name": "Doreen Allene Green",
+    "deck": "A hero with squirrel-like abilities and features, Squirrel Girl is not always taken seriously, but she has nonetheless defeated many of the Marvel universe's greatest villains. She is a longtime member of the Great Lakes Avengers, and briefly served as a nanny for Luke Cage and Jessica Jones.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 545,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/6/67663/6923388-44-variant.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/squirrel-girl/4005-2488/"
+  },
+  {
+    "id": 3530,
+    "name": "Mandarin",
+    "real_name": "Khan",
+    "deck": "The Mandarin is the arch enemy of Iron Man. A remarkable genius with both earthly and extraterrestrial technology, the Mandarin is also an exceptional athlete, swordsman, and martial artist. ",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 543,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11144/111442876/8759884-dbdgg.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/mandarin/4005-3530/"
+  },
+  {
+    "id": 4646,
+    "name": "Gateway",
+    "real_name": null,
+    "deck": "Gateway is a mutant who can create wormholes.  He was forced into serving the Reavers, but was rescued by the X-Men, whom he has since aided many times. He is Shard's and Bishop's ancestor. He was murdered by Ultimaton while helping X-force.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 542,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/9/96747/7217685-gateway.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/gateway/4005-4646/"
+  },
+  {
+    "id": 3171,
+    "name": "Klaw",
+    "real_name": "Ulysses Klaw",
+    "deck": "Ulysses Klaw is a Dutch scientist and an arch enemy to Black Panther. He has a gun on his arm that turns sound into images. His body was converted into pure sound when he jumped into his sound converter machine.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 533,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/11352/459651-klaw03.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/klaw/4005-3171/"
+  },
+  {
+    "id": 2253,
+    "name": "Thunderball",
+    "real_name": "Eliot Franklin",
+    "deck": "Once a physicist who built a gamma bomb which was then stolen, the man later called the Thunderball was jailed after he tried to recover it. He there met the Wrecker and gained his powers. They joined forces with the Piledriver and the Bulldozer to form the Wrecking Crew.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 531,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11/117763/2893215-eliot_franklin__earth_616__from_new_avengers_vol_1_56.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/thunderball/4005-2253/"
+  },
+  {
+    "id": 3365,
+    "name": "Spider-Girl (Parker)",
+    "real_name": "May Parker",
+    "deck": "The daughter of Peter Parker, the original Spider-Man, May \"Mayday\" Parker continues her father's legacy as the Spider-Woman of Earth-982 (MC2 Universe).",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 519,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11170/111705043/8824007-spider-girl.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/spider-girl-parker/4005-3365/"
+  },
+  {
+    "id": 2173,
+    "name": "Empath",
+    "real_name": "Manuel Alfonso Rodrigo de la Rocha",
+    "deck": "Empath is a mutant with the power to manipulate other people's emotions. Empath was a member of the first group of Hellions (at the Massachusetts Academy), and more recently, of the Mr. Sinister's team. ",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 515,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9424721-empath.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/empath/4005-2173/"
+  },
+  {
+    "id": 3174,
+    "name": "Silver Samurai",
+    "real_name": "Kenuichio Harada",
+    "deck": "A sword-wielding mutant, Silver Samurai has often tangled with Wolverine as the bodyguard of Viper, and later an occasional mercenary. He is the head of Clan Yashida, as Wolverine's ex-fiancee formerly was.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 510,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11156/111564182/9093457-silvsam.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/silver-samurai/4005-3174/"
+  },
+  {
+    "id": 3233,
+    "name": "Mr. Hyde",
+    "real_name": "Calvin Zabo",
+    "deck": "Inspired by the famous novel, Zabo concocted a similar formula. Repeated use of this formula destroyed his sanity and turned him into a savage schizophrenic creature.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 509,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/7805069-rco017_1613000957.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/mr-hyde/4005-3233/"
+  },
+  {
+    "id": 3188,
+    "name": "Beak",
+    "real_name": "Barnell Bohusk",
+    "deck": "Beak's mutation manifested at puberty, developing into a humanoid/avian hybrid much like the physiology found in flightless birds.  He is amongst the number of mutants depowered due to the events of M-Day, his body reverting back to human form.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 506,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/0/77/76894-138657-beak.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/beak/4005-3188/"
+  },
+  {
+    "id": 4984,
+    "name": "Werewolf By Night",
+    "real_name": "Jacob Russoff",
+    "deck": "Victim of an ancient family curse, Jack Russell struggled for years with his bestial alter-ego. But over time has conquered his inner demons. Now he fights the dark forces that plague our world. He is an enforcer of justice, an avenger of shadows, and a Werewolf By Night.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 506,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9404885-18.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/werewolf-by-night/4005-4984/"
+  },
+  {
+    "id": 4458,
+    "name": "Chameleon",
+    "real_name": "Dmitri Anatoly Nikolayevich",
+    "deck": "Dmitri Smerdyakov, AKA Chameleon, was first member of an inexperienced Spider-Man's rogue's gallery. The Chameleon is an elite spy and a master of disguise, using a variety of masks, technology, and other inventive techniques to flawless mimic the appearance and mannerisms of virtually anyone. Although he has been revealed to be the half-brother of Kraven The Hunter, the face behind his trade-mark white mask – worn even beneath his other masks – has never been seen.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 492,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8002168-250072_1446175_1.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/chameleon/4005-4458/"
+  },
+  {
+    "id": 2251,
+    "name": "Piledriver",
+    "real_name": "Brian Phillip Calusky",
+    "deck": "Piledriver is a powerful member of the Wrecking Crew.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 491,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11/117763/2893217-brian_calusky__earth_616__03.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/piledriver/4005-2251/"
+  },
+  {
+    "id": 2131,
+    "name": "Mad Thinker",
+    "real_name": "Julius",
+    "deck": "A scientist who believes in predicting the future with math.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 488,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8283670-rco018_w_1638964233.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/mad-thinker/4005-2131/"
+  },
+  {
+    "id": 4579,
+    "name": "Shanna",
+    "real_name": "Shanna O'Hara",
+    "deck": "Shanna is a jungle adventuress and protector of the Savage Lands with her husband Ka-Zar and their pet Zabu. Though her presence in the Marvel universe has diminished, recognition among readers has risen over the years thanks to the 2005, Shanna the She-Devil series by Frank Cho. Shanna was originally created as a derivative of Sheena.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 484,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/2/25835/1761296-shanna_skarr_kosl_.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/shanna/4005-4579/"
+  },
+  {
+    "id": 4815,
+    "name": "Andreas von Strucker",
+    "real_name": "Andreas von Strucker",
+    "deck": "Former terrorist and son of HYDRA's Baron Strucker, Andreas von Strucker abandoned his life of evil following the death of his older twin sister. Choosing to become a better man, he became the superhero Swordsman and joined the Thunderbolts on his quest to be the opposite of everything he'd been before.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 482,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9510387-3609568953-latest.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/andreas-von-strucker/4005-4815/"
+  },
+  {
+    "id": 2191,
+    "name": "Katie Power",
+    "real_name": "Katie Margaret Power",
+    "deck": "Katie Power, Also known as \"Energizer\", is the youngest of all four Power siblings. She has the power to disintegrate objects and zap it back in energy bolts.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 475,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11112/111123579/8248773-katiepower.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/katie-power/4005-2191/"
+  },
+  {
+    "id": 4662,
+    "name": "Baron von Strucker",
+    "real_name": "Wolfgang Von Strucker",
+    "deck": "Ever since WWII, Baron Strucker has been causing misery and destruction, first as the Red Skull's second-in-command, later as ruler of the terrorist group HYDRA. It might be due to losing his position as a prince in the Prussian dynasty, or maybe he's just a real jerk. He wants total chaos and anarchy, and absolute control of the world. He also wants Nick Fury dead and all forms of democracy crushed.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 467,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/0/5344/1168192-baron_von_strucker_01.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/baron-von-strucker/4005-4662/"
+  },
+  {
+    "id": 4818,
+    "name": "Ronan",
+    "real_name": "Ronan",
+    "deck": "Long time Supreme Public Accuser and eventual Supremor of the Kree Empire, Ronan is married to Crystal of the Inhumans, the new benefactors and leaders of the Kree.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 466,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/0/77/76824-82805-ronan.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/ronan/4005-4818/"
+  },
+  {
+    "id": 4328,
+    "name": "Trapster",
+    "real_name": "Peter Petruski",
+    "deck": "A genius chemist who invented a potent multi-polymer adhesive and immediately decided to use his invention to commit crimes.  First assuming the identity of Paste-Pot Pete, he changed it to the more intimidating name of the Trapster.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 464,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11/117763/2363495-trapster.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/trapster/4005-4328/"
+  },
+  {
+    "id": 1494,
+    "name": "Colleen Wing",
+    "real_name": "Colleen Wing",
+    "deck": "Colleen Wing is a samurai and one half of the detective/bail-bond firm Daughters of the Dragon. She and Misty Knight co-own 'Heroes for Hire'. Colleen is currently bonded to the Mind Stone.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 461,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9702510-large-3084063.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/colleen-wing/4005-1494/"
+  },
+  {
+    "id": 3561,
+    "name": "Vertigo",
+    "real_name": null,
+    "deck": "Vertigo is a member of the Savage Land Mutates, as well as one of Mr. Sinister's Marauders. She is able to project waves of psionic distortion that cause extreme disorientation and nausea in other living beings.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 460,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9725019-vertigo1.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/vertigo/4005-3561/"
+  },
+  {
+    "id": 3324,
+    "name": "Mantis",
+    "real_name": null,
+    "deck": "From Avenger to cosmic traveler to the legendary Celestial Madonna, Mantis is perhaps one of the most well-traveled characters in the Marvel Universe.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 459,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11156/111564182/9646577-mantisempyre.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/mantis/4005-3324/"
+  },
+  {
+    "id": 4565,
+    "name": "Nocturne",
+    "real_name": "Talia Josephine Wagner",
+    "deck": "Nocturne is the daughter of Nightcrawler and the Scarlet Witch from an alternate reality. Originally a member of the X-Men in her reality, she later joined the Exiles and New Excalibur.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 459,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/0/77/101357-146435-nocturne.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/nocturne/4005-4565/"
+  },
+  {
+    "id": 4486,
+    "name": "Karen Page",
+    "real_name": "Karen Page",
+    "deck": "Secretary at Matt Murdock's law firm and long time love interest. She was eventually killed by Bullseye when she sacrificed herself for Matt.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 452,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/0/5599/194256-52677-karen-page.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/karen-page/4005-4486/"
+  },
+  {
+    "id": 3447,
+    "name": "Maximus",
+    "real_name": "Maximus Boltagon",
+    "deck": "Maximus is the genius and insane brother of Black Bolt who often plots against the Inhuman Royal Family. Recently, he has been cooperating with the Royal Family under Medusa's rule.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 452,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/3/33913/1068755-91_realm_of_kings__inhumans_02.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/maximus/4005-3447/"
+  },
+  {
+    "id": 3318,
+    "name": "Jocasta",
+    "real_name": "Jocasta",
+    "deck": "Once the Bride of Ultron, Jocasta has become an honorary member of the Avengers after years of loyalty and sacrifice. She had until most recently held a position at The Avengers Academy.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 451,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/10/100647/3989843-3496330-jocasta.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/jocasta/4005-3318/"
+  },
+  {
+    "id": 3277,
+    "name": "Atlas",
+    "real_name": "Erik Stephan Josten",
+    "deck": "Starting his super-criminal life as Power Man and then reinventing himself as the size-altering Goliath, Erik Josten has served as a member of several incarnations of the Masters of Evil and the Lethal Legion. It wasn't until he became Atlas and a founding Thunderbolts member that he truly \"discovered\" himself.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 446,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/6/61102/7533969-img_8451.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/atlas/4005-3277/"
+  },
+  {
+    "id": 2172,
+    "name": "Devil Dinosaur",
+    "real_name": null,
+    "deck": "A huge red dinosaur that resembles that of a Tyrannosaurus who has an amazing bond with Moon-Boy, and later Moon Girl.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 446,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/6/67663/6939415-43-variant.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/devil-dinosaur/4005-2172/"
+  },
+  {
+    "id": 1536,
+    "name": "Typhoid Mary",
+    "real_name": "Mary Alice Walker",
+    "deck": "Once upon a time there was a pretty little girl who poisoned all she touched. Some called her Mary, others called her Typhoid. Every time she let out a sweet breath, someone else fell dead. She was sweet, she was toxic, she was Typhoid.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 443,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11156/111564182/9736473-typhoidmary.jpeg",
+    "site_detail_url": "https://comicvine.gamespot.com/typhoid-mary/4005-1536/"
+  },
+  {
+    "id": 1529,
+    "name": "Batroc",
+    "real_name": "Georges Batroc",
+    "deck": "Mercenary, formerly of the French Foreign Legion. He is one of the most formidable unarmed combatants in the world. He has mastered numerous martial arts and is perhaps the world's leading master of Savate, the French art of kick boxing. He is an accomplished thief and smuggler.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 437,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11174/111743204/8924132-batroc.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/batroc/4005-1529/"
+  },
+  {
+    "id": 3134,
+    "name": "Jack Power",
+    "real_name": "Jack Power",
+    "deck": "Jack Power, Also known as \"Mass Master\", was a founding member of the superhero team Power Pack.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 434,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11112/111123579/8248772-jackpower.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/jack-power/4005-3134/"
+  },
+  {
+    "id": 4069,
+    "name": "Rawhide Kid",
+    "real_name": "Johnny Bart",
+    "deck": "The Rawhide Kid is Johnny Bart, one of Marvel's best-known Western heroes. Though branded an outlaw, he continues to fight for right and justice.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 434,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/3/33913/1162866-122_the_rawhide_kid_1.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/rawhide-kid/4005-4069/"
+  },
+  {
+    "id": 2479,
+    "name": "George Stacy",
+    "real_name": "George Stacy",
+    "deck": "A retired New York Police Department captain and the father of Gwen Stacy.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 429,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/6/62795/5713753-stacy.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/george-stacy/4005-2479/"
+  },
+  {
+    "id": 2254,
+    "name": "Bulldozer",
+    "real_name": "Henry Camp",
+    "deck": "A U.S. army sergeant who was discharged and put into jail. He later became one of the strongest members of The Wrecking Crew.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 420,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11/117763/2893214-henry_camp__earth_616__from_new_avengers_annual_vol_1_2.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/bulldozer/4005-2254/"
+  },
+  {
+    "id": 3225,
+    "name": "Crossbones",
+    "real_name": "Brock Rumlow",
+    "deck": "A ruthless mercenary who has operated as the right-hand man of the Red Skull as well as a member of the Skeleton Crew, Serpent Squad and, surprisingly, Thunderbolts.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 419,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/3/33913/1576971-11_capacbones001_cov.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/crossbones/4005-3225/"
+  },
+  {
+    "id": 2646,
+    "name": "Nightmare",
+    "real_name": "Nightmare",
+    "deck": "Nightmare is the ruler of the Dream Dimension and a co-creator of the Fear Lords. He is a primary enemy of Doctor Strange's.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 417,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/3/33913/996855-34_doctor_voodoo__avenger_of_the_supernatural_4.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/nightmare/4005-2646/"
+  },
+  {
+    "id": 1936,
+    "name": "Molly Hayes",
+    "real_name": "Molly Hayes",
+    "deck": "Molly is the youngest member of the teen super group the Runaways. She is a mutant with immense strength but she tends to become tired after using her power.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 412,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/1/15776/8929414-molly.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/molly-hayes/4005-1936/"
+  },
+  {
+    "id": 3161,
+    "name": "Tombstone",
+    "real_name": "Alonzo Thompson Lincoln",
+    "deck": "The cold, tall and monsterous looking Spider-Man villain who takes pride in his grim and death-like appearance, Lonnie Thompson Lincoln is a criminal enforcer who uses methods of intimidation and murder under the deserving nickname of Tombstone.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 412,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/10056389-rco025_w_1758649627.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/tombstone/4005-3161/"
+  },
+  {
+    "id": 1940,
+    "name": "Nico Minoru",
+    "real_name": "Nico Minoru",
+    "deck": "The daughter of Robert &amp; Tina Minoru who is the unofficial leader of the Runaways. She possesses the Staff of One, a mystical staff which can grand any wish, but only once. ",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 410,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/7254273-runaways_vol_5_28_texs7kuv.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/nico-minoru/4005-1940/"
+  },
+  {
+    "id": 3183,
+    "name": "Xorn",
+    "real_name": "Kuan-Yin Xorn",
+    "deck": "Xorn is a mutant with a tiny star inside his head. After joining the X-Men, he became addicted to the drug Kick and began to believe himself to be Magneto.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 409,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/11161/111612243/9710286-4271718737-a5551.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/xorn/4005-3183/"
+  },
+  {
+    "id": 4807,
+    "name": "Radioactive Man",
+    "real_name": "Chen Lu",
+    "deck": "A nuclear physicist and Communist agent in the People's Republic of China, Chen Lu is a Chinese superhero who's nationality has seen him come into conflict with American heroes. He has the ability to control and emit deadly forms of radiation.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 408,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/9438783-immortalthor2023016_cov-675x1024.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/radioactive-man/4005-4807/"
+  },
+  {
+    "id": 3327,
+    "name": "Agatha Harkness",
+    "real_name": "Agatha Harkness",
+    "deck": "A renowned centuries-old witch, survivor of the Witch Trials and founder of New Salem. During the Age of Heroes she became the nanny of Franklin Richards and mentored the Scarlet Witch in the ways of witchcraft. She currently acts as an anti-hero and foil to her former pupil.",
+    "publisher": {
+      "id": 31,
+      "name": "Marvel"
+    },
+    "powers": [],
+    "teams": [],
+    "count_of_issue_appearances": 400,
+    "image": "https://comicvine.gamespot.com/a/uploads/scale_avatar/12/124259/8733102-ezgif-4-f46f92ca31.jpg",
+    "site_detail_url": "https://comicvine.gamespot.com/agatha-harkness/4005-3327/"
+  }
+]

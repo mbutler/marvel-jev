@@ -1,0 +1,2267 @@
+{
+  "generated_at": "2026-09-22T14:37:07Z",
+  "results_path": "/Users/mtbutler/Desktop/marvel/data/results.jsonl",
+  "backends": {
+    "openrouter": {
+      "total_rows": 31125,
+      "ok": 31124,
+      "errors": 1,
+      "mean_latency_ms": 207.91,
+      "fights_per_sec_est": 4.81,
+      "total_cost": 0.732088,
+      "model": "typesafe/jev-1.13-20260917",
+      "leaderboard": [
+        {
+          "wins": 249,
+          "losses": 0,
+          "name": "Phoenix Force",
+          "id": 2164,
+          "games": 249,
+          "win_rate": 1.0,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 248,
+          "losses": 1,
+          "name": "Odin",
+          "id": 3507,
+          "games": 249,
+          "win_rate": 0.9959839357429718,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 247,
+          "losses": 2,
+          "name": "Franklin Richards",
+          "id": 2469,
+          "games": 249,
+          "win_rate": 0.9919678714859438,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 246,
+          "losses": 3,
+          "name": "Galactus",
+          "id": 2149,
+          "games": 249,
+          "win_rate": 0.9879518072289156,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 245,
+          "losses": 4,
+          "name": "Scarlet Witch",
+          "id": 1466,
+          "games": 249,
+          "win_rate": 0.9839357429718876,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 244,
+          "losses": 5,
+          "name": "Thor",
+          "id": 2268,
+          "games": 249,
+          "win_rate": 0.9799196787148594,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 243,
+          "losses": 6,
+          "name": "Silver Surfer",
+          "id": 2502,
+          "games": 249,
+          "win_rate": 0.9759036144578314,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 242,
+          "losses": 7,
+          "name": "Jean Grey",
+          "id": 3552,
+          "games": 249,
+          "win_rate": 0.9718875502008032,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 240,
+          "losses": 9,
+          "name": "Mephisto",
+          "id": 2635,
+          "games": 249,
+          "win_rate": 0.963855421686747,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 239,
+          "losses": 10,
+          "name": "Doctor Strange",
+          "id": 1456,
+          "games": 249,
+          "win_rate": 0.9598393574297188,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 239,
+          "losses": 10,
+          "name": "Dormammu",
+          "id": 2205,
+          "games": 249,
+          "win_rate": 0.9598393574297188,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 238,
+          "losses": 11,
+          "name": "Proteus",
+          "id": 2165,
+          "games": 249,
+          "win_rate": 0.9558232931726908,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 238,
+          "losses": 11,
+          "name": "Sentry",
+          "id": 1454,
+          "games": 249,
+          "win_rate": 0.9558232931726908,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 236,
+          "losses": 13,
+          "name": "Kang",
+          "id": 2264,
+          "games": 249,
+          "win_rate": 0.9477911646586346,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 234,
+          "losses": 15,
+          "name": "Rachel Summers",
+          "id": 3566,
+          "games": 249,
+          "win_rate": 0.9397590361445783,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 233,
+          "losses": 16,
+          "name": "Doctor Doom",
+          "id": 1468,
+          "games": 249,
+          "win_rate": 0.9357429718875502,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 230,
+          "losses": 19,
+          "name": "Black Bolt",
+          "id": 4329,
+          "games": 249,
+          "win_rate": 0.9236947791164659,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 230,
+          "losses": 19,
+          "name": "Magneto",
+          "id": 1441,
+          "games": 249,
+          "win_rate": 0.9236947791164659,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 228,
+          "losses": 21,
+          "name": "Hela",
+          "id": 4342,
+          "games": 249,
+          "win_rate": 0.9156626506024096,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 228,
+          "losses": 21,
+          "name": "Nova",
+          "id": 2105,
+          "games": 249,
+          "win_rate": 0.9156626506024096,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 228,
+          "losses": 21,
+          "name": "Sersi",
+          "id": 2118,
+          "games": 249,
+          "win_rate": 0.9156626506024096,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 227,
+          "losses": 21,
+          "name": "Hulk",
+          "id": 2267,
+          "games": 248,
+          "win_rate": 0.9153225806451613,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 227,
+          "losses": 22,
+          "name": "Loki",
+          "id": 4324,
+          "games": 249,
+          "win_rate": 0.9116465863453815,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 226,
+          "losses": 23,
+          "name": "Elixir",
+          "id": 4552,
+          "games": 249,
+          "win_rate": 0.9076305220883534,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 226,
+          "losses": 23,
+          "name": "Professor X",
+          "id": 1505,
+          "games": 249,
+          "win_rate": 0.9076305220883534,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 223,
+          "losses": 26,
+          "name": "Cable",
+          "id": 2157,
+          "games": 249,
+          "win_rate": 0.8955823293172691,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 222,
+          "losses": 27,
+          "name": "Hercules",
+          "id": 2503,
+          "games": 249,
+          "win_rate": 0.891566265060241,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 221,
+          "losses": 28,
+          "name": "Iron Man",
+          "id": 1455,
+          "games": 249,
+          "win_rate": 0.8875502008032129,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 220,
+          "losses": 29,
+          "name": "Storm",
+          "id": 1444,
+          "games": 249,
+          "win_rate": 0.8835341365461847,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 219,
+          "losses": 30,
+          "name": "Juggernaut",
+          "id": 1445,
+          "games": 249,
+          "win_rate": 0.8795180722891566,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 216,
+          "losses": 33,
+          "name": "Captain Marvel",
+          "id": 1472,
+          "games": 249,
+          "win_rate": 0.8674698795180723,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 216,
+          "losses": 33,
+          "name": "Quasar",
+          "id": 3319,
+          "games": 249,
+          "win_rate": 0.8674698795180723,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 216,
+          "losses": 33,
+          "name": "Vision",
+          "id": 1504,
+          "games": 249,
+          "win_rate": 0.8674698795180723,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 214,
+          "losses": 35,
+          "name": "Emma Frost",
+          "id": 1457,
+          "games": 249,
+          "win_rate": 0.8594377510040161,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 214,
+          "losses": 35,
+          "name": "Gladiator",
+          "id": 4653,
+          "games": 249,
+          "win_rate": 0.8594377510040161,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 213,
+          "losses": 36,
+          "name": "Clea",
+          "id": 2216,
+          "games": 249,
+          "win_rate": 0.8554216867469879,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 213,
+          "losses": 36,
+          "name": "Heimdall",
+          "id": 3508,
+          "games": 249,
+          "win_rate": 0.8554216867469879,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 212,
+          "losses": 37,
+          "name": "Iceman",
+          "id": 1464,
+          "games": 249,
+          "win_rate": 0.8514056224899599,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 210,
+          "losses": 39,
+          "name": "Ultron",
+          "id": 2242,
+          "games": 249,
+          "win_rate": 0.8433734939759037,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 208,
+          "losses": 41,
+          "name": "Betsy Braddock",
+          "id": 3176,
+          "games": 249,
+          "win_rate": 0.8353413654618473,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 208,
+          "losses": 41,
+          "name": "Moonstone",
+          "id": 3279,
+          "games": 249,
+          "win_rate": 0.8353413654618473,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 208,
+          "losses": 41,
+          "name": "Nightmare",
+          "id": 2646,
+          "games": 249,
+          "win_rate": 0.8353413654618473,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 207,
+          "losses": 42,
+          "name": "Wonder Man",
+          "id": 1465,
+          "games": 249,
+          "win_rate": 0.8313253012048193,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 206,
+          "losses": 43,
+          "name": "Invisible Woman",
+          "id": 2190,
+          "games": 249,
+          "win_rate": 0.8273092369477911,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 204,
+          "losses": 45,
+          "name": "Bishop",
+          "id": 1503,
+          "games": 249,
+          "win_rate": 0.8192771084337349,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 204,
+          "losses": 45,
+          "name": "Doc Samson",
+          "id": 4315,
+          "games": 249,
+          "win_rate": 0.8192771084337349,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 203,
+          "losses": 46,
+          "name": "Agatha Harkness",
+          "id": 3327,
+          "games": 249,
+          "win_rate": 0.8152610441767069,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 202,
+          "losses": 47,
+          "name": "Selene",
+          "id": 2176,
+          "games": 249,
+          "win_rate": 0.8112449799196787,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 202,
+          "losses": 47,
+          "name": "Wolverine",
+          "id": 1440,
+          "games": 249,
+          "win_rate": 0.8112449799196787,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 198,
+          "losses": 51,
+          "name": "Cyclops",
+          "id": 1459,
+          "games": 249,
+          "win_rate": 0.7951807228915663,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 197,
+          "losses": 52,
+          "name": "Namor",
+          "id": 1476,
+          "games": 249,
+          "win_rate": 0.7911646586345381,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 197,
+          "losses": 52,
+          "name": "Ronan",
+          "id": 4818,
+          "games": 249,
+          "win_rate": 0.7911646586345381,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 196,
+          "losses": 53,
+          "name": "Havok",
+          "id": 3546,
+          "games": 249,
+          "win_rate": 0.7871485943775101,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 194,
+          "losses": 55,
+          "name": "Venom",
+          "id": 1486,
+          "games": 249,
+          "win_rate": 0.7791164658634538,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 193,
+          "losses": 56,
+          "name": "Leech",
+          "id": 3193,
+          "games": 249,
+          "win_rate": 0.7751004016064257,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 190,
+          "losses": 59,
+          "name": "Mr. Sinister",
+          "id": 3179,
+          "games": 249,
+          "win_rate": 0.7630522088353414,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 190,
+          "losses": 59,
+          "name": "Rogue",
+          "id": 1446,
+          "games": 249,
+          "win_rate": 0.7630522088353414,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 190,
+          "losses": 59,
+          "name": "She-Hulk",
+          "id": 1449,
+          "games": 249,
+          "win_rate": 0.7630522088353414,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 189,
+          "losses": 60,
+          "name": "Black Panther",
+          "id": 1477,
+          "games": 249,
+          "win_rate": 0.7590361445783133,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 189,
+          "losses": 60,
+          "name": "Exodus",
+          "id": 4567,
+          "games": 249,
+          "win_rate": 0.7590361445783133,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 189,
+          "losses": 60,
+          "name": "Polaris",
+          "id": 1473,
+          "games": 249,
+          "win_rate": 0.7590361445783133,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 188,
+          "losses": 61,
+          "name": "Iron Fist",
+          "id": 1492,
+          "games": 249,
+          "win_rate": 0.7550200803212851,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 187,
+          "losses": 62,
+          "name": "Angel",
+          "id": 2112,
+          "games": 249,
+          "win_rate": 0.751004016064257,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 183,
+          "losses": 66,
+          "name": "Carnage",
+          "id": 1490,
+          "games": 249,
+          "win_rate": 0.7349397590361446,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 183,
+          "losses": 66,
+          "name": "Crystal",
+          "id": 2115,
+          "games": 249,
+          "win_rate": 0.7349397590361446,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 183,
+          "losses": 66,
+          "name": "Human Torch",
+          "id": 2120,
+          "games": 249,
+          "win_rate": 0.7349397590361446,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 183,
+          "losses": 66,
+          "name": "Mr. Fantastic",
+          "id": 2151,
+          "games": 249,
+          "win_rate": 0.7349397590361446,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 180,
+          "losses": 69,
+          "name": "Thing",
+          "id": 2114,
+          "games": 249,
+          "win_rate": 0.7228915662650602,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 178,
+          "losses": 71,
+          "name": "Colossus",
+          "id": 1460,
+          "games": 249,
+          "win_rate": 0.714859437751004,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 178,
+          "losses": 71,
+          "name": "Thunderbolt Ross",
+          "id": 3457,
+          "games": 249,
+          "win_rate": 0.714859437751004,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 178,
+          "losses": 71,
+          "name": "War Machine",
+          "id": 1926,
+          "games": 249,
+          "win_rate": 0.714859437751004,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 178,
+          "losses": 71,
+          "name": "Xorn",
+          "id": 3183,
+          "games": 249,
+          "win_rate": 0.714859437751004,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 176,
+          "losses": 73,
+          "name": "M.O.D.O.K.",
+          "id": 3709,
+          "games": 249,
+          "win_rate": 0.7068273092369478,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 175,
+          "losses": 74,
+          "name": "Hank Pym",
+          "id": 2247,
+          "games": 249,
+          "win_rate": 0.7028112449799196,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 175,
+          "losses": 74,
+          "name": "Sunfire",
+          "id": 3175,
+          "games": 249,
+          "win_rate": 0.7028112449799196,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 173,
+          "losses": 76,
+          "name": "Kitty Pryde",
+          "id": 3548,
+          "games": 249,
+          "win_rate": 0.6947791164658634,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 172,
+          "losses": 77,
+          "name": "Abomination",
+          "id": 3489,
+          "games": 249,
+          "win_rate": 0.6907630522088354,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 172,
+          "losses": 77,
+          "name": "Mandarin",
+          "id": 3530,
+          "games": 249,
+          "win_rate": 0.6907630522088354,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 172,
+          "losses": 77,
+          "name": "Sebastian Shaw",
+          "id": 2175,
+          "games": 249,
+          "win_rate": 0.6907630522088354,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 171,
+          "losses": 78,
+          "name": "Quicksilver",
+          "id": 1467,
+          "games": 249,
+          "win_rate": 0.6867469879518072,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 169,
+          "losses": 80,
+          "name": "Fantomex",
+          "id": 4281,
+          "games": 249,
+          "win_rate": 0.678714859437751,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 168,
+          "losses": 81,
+          "name": "Magma",
+          "id": 4558,
+          "games": 249,
+          "win_rate": 0.6746987951807228,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 165,
+          "losses": 84,
+          "name": "X-23",
+          "id": 3560,
+          "games": 249,
+          "win_rate": 0.6626506024096386,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 164,
+          "losses": 85,
+          "name": "Man-Thing",
+          "id": 4988,
+          "games": 249,
+          "win_rate": 0.6586345381526104,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 163,
+          "losses": 86,
+          "name": "Moonstar",
+          "id": 1463,
+          "games": 249,
+          "win_rate": 0.6546184738955824,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 163,
+          "losses": 86,
+          "name": "Sage",
+          "id": 4559,
+          "games": 249,
+          "win_rate": 0.6546184738955824,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 162,
+          "losses": 87,
+          "name": "Absorbing Man",
+          "id": 1779,
+          "games": 249,
+          "win_rate": 0.6506024096385542,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 162,
+          "losses": 87,
+          "name": "Sabretooth",
+          "id": 4563,
+          "games": 249,
+          "win_rate": 0.6506024096385542,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 160,
+          "losses": 89,
+          "name": "Sunspot",
+          "id": 4644,
+          "games": 249,
+          "win_rate": 0.642570281124498,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 159,
+          "losses": 90,
+          "name": "Spider-Man",
+          "id": 1443,
+          "games": 249,
+          "win_rate": 0.6385542168674698,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 158,
+          "losses": 91,
+          "name": "Omega Sentinel",
+          "id": 3421,
+          "games": 249,
+          "win_rate": 0.6345381526104418,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 157,
+          "losses": 92,
+          "name": "Captain America",
+          "id": 1442,
+          "games": 249,
+          "win_rate": 0.6305220883534136,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 157,
+          "losses": 92,
+          "name": "Hulkling",
+          "id": 2259,
+          "games": 249,
+          "win_rate": 0.6305220883534136,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 156,
+          "losses": 93,
+          "name": "Beast",
+          "id": 1462,
+          "games": 249,
+          "win_rate": 0.6265060240963856,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 156,
+          "losses": 93,
+          "name": "Luke Cage",
+          "id": 1450,
+          "games": 249,
+          "win_rate": 0.6265060240963856,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 151,
+          "losses": 98,
+          "name": "Medusa",
+          "id": 4327,
+          "games": 249,
+          "win_rate": 0.606425702811245,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 149,
+          "losses": 100,
+          "name": "Doctor Octopus",
+          "id": 1485,
+          "games": 249,
+          "win_rate": 0.5983935742971888,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 148,
+          "losses": 101,
+          "name": "Gambit",
+          "id": 1499,
+          "games": 249,
+          "win_rate": 0.5943775100401606,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 145,
+          "losses": 104,
+          "name": "Dark Beast",
+          "id": 3422,
+          "games": 249,
+          "win_rate": 0.5823293172690763,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 145,
+          "losses": 104,
+          "name": "Nightcrawler",
+          "id": 1461,
+          "games": 249,
+          "win_rate": 0.5823293172690763,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 145,
+          "losses": 104,
+          "name": "Volstagg",
+          "id": 3513,
+          "games": 249,
+          "win_rate": 0.5823293172690763,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 144,
+          "losses": 105,
+          "name": "Sasquatch",
+          "id": 1478,
+          "games": 249,
+          "win_rate": 0.5783132530120482,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 143,
+          "losses": 106,
+          "name": "Flash Thompson",
+          "id": 1489,
+          "games": 249,
+          "win_rate": 0.5742971887550201,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 143,
+          "losses": 106,
+          "name": "Spider-Woman",
+          "id": 1453,
+          "games": 249,
+          "win_rate": 0.5742971887550201,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 143,
+          "losses": 106,
+          "name": "Valeria Richards",
+          "id": 2470,
+          "games": 249,
+          "win_rate": 0.5742971887550201,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 142,
+          "losses": 107,
+          "name": "Nico Minoru",
+          "id": 1940,
+          "games": 249,
+          "win_rate": 0.570281124497992,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 142,
+          "losses": 107,
+          "name": "Wasp",
+          "id": 1502,
+          "games": 249,
+          "win_rate": 0.570281124497992,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 141,
+          "losses": 108,
+          "name": "Electro",
+          "id": 3228,
+          "games": 249,
+          "win_rate": 0.5662650602409639,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 139,
+          "losses": 110,
+          "name": "Forge",
+          "id": 4279,
+          "games": 249,
+          "win_rate": 0.5582329317269076,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 137,
+          "losses": 112,
+          "name": "Cloak",
+          "id": 1474,
+          "games": 249,
+          "win_rate": 0.5502008032128514,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 137,
+          "losses": 112,
+          "name": "Dagger",
+          "id": 1935,
+          "games": 249,
+          "win_rate": 0.5502008032128514,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 137,
+          "losses": 112,
+          "name": "Squirrel Girl",
+          "id": 2488,
+          "games": 249,
+          "win_rate": 0.5502008032128514,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 136,
+          "losses": 113,
+          "name": "Chamber",
+          "id": 2244,
+          "games": 249,
+          "win_rate": 0.5461847389558233,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 135,
+          "losses": 114,
+          "name": "Firestar",
+          "id": 2101,
+          "games": 249,
+          "win_rate": 0.5421686746987951,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 135,
+          "losses": 114,
+          "name": "Gateway",
+          "id": 4646,
+          "games": 249,
+          "win_rate": 0.5421686746987951,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 135,
+          "losses": 114,
+          "name": "Mystique",
+          "id": 1469,
+          "games": 249,
+          "win_rate": 0.5421686746987951,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 134,
+          "losses": 115,
+          "name": "Shaman",
+          "id": 5017,
+          "games": 249,
+          "win_rate": 0.5381526104417671,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 132,
+          "losses": 117,
+          "name": "Northstar",
+          "id": 3190,
+          "games": 249,
+          "win_rate": 0.5301204819277109,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 131,
+          "losses": 118,
+          "name": "Betty Ross",
+          "id": 3445,
+          "games": 249,
+          "win_rate": 0.5261044176706827,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 131,
+          "losses": 118,
+          "name": "Mantis",
+          "id": 3324,
+          "games": 249,
+          "win_rate": 0.5261044176706827,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 131,
+          "losses": 118,
+          "name": "Sam Wilson",
+          "id": 1451,
+          "games": 249,
+          "win_rate": 0.5261044176706827,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 128,
+          "losses": 121,
+          "name": "Domino",
+          "id": 2161,
+          "games": 249,
+          "win_rate": 0.5140562248995983,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 124,
+          "losses": 125,
+          "name": "Black Knight",
+          "id": 3172,
+          "games": 249,
+          "win_rate": 0.4979919678714859,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 124,
+          "losses": 125,
+          "name": "Cannonball",
+          "id": 1496,
+          "games": 249,
+          "win_rate": 0.4979919678714859,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 124,
+          "losses": 125,
+          "name": "Moon Knight",
+          "id": 1493,
+          "games": 249,
+          "win_rate": 0.4979919678714859,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 123,
+          "losses": 125,
+          "name": "Fandral",
+          "id": 3512,
+          "games": 248,
+          "win_rate": 0.4959677419354839,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 122,
+          "losses": 127,
+          "name": "Radioactive Man",
+          "id": 4807,
+          "games": 249,
+          "win_rate": 0.4899598393574297,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 119,
+          "losses": 130,
+          "name": "Nocturne",
+          "id": 4565,
+          "games": 249,
+          "win_rate": 0.4779116465863454,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 118,
+          "losses": 131,
+          "name": "Hogun",
+          "id": 3511,
+          "games": 249,
+          "win_rate": 0.4738955823293173,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 118,
+          "losses": 131,
+          "name": "Klaw",
+          "id": 3171,
+          "games": 249,
+          "win_rate": 0.4738955823293173,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 118,
+          "losses": 131,
+          "name": "Lockjaw",
+          "id": 3534,
+          "games": 249,
+          "win_rate": 0.4738955823293173,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 118,
+          "losses": 131,
+          "name": "Pepper Potts",
+          "id": 4263,
+          "games": 249,
+          "win_rate": 0.4738955823293173,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 117,
+          "losses": 132,
+          "name": "Jocasta",
+          "id": 3318,
+          "games": 249,
+          "win_rate": 0.46987951807228917,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 117,
+          "losses": 132,
+          "name": "Siryn",
+          "id": 3181,
+          "games": 249,
+          "win_rate": 0.46987951807228917,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 116,
+          "losses": 133,
+          "name": "Shatterstar",
+          "id": 2156,
+          "games": 249,
+          "win_rate": 0.46586345381526106,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 115,
+          "losses": 134,
+          "name": "Jubilee",
+          "id": 4562,
+          "games": 249,
+          "win_rate": 0.46184738955823296,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 112,
+          "losses": 137,
+          "name": "Elektra",
+          "id": 1802,
+          "games": 249,
+          "win_rate": 0.4497991967871486,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 111,
+          "losses": 138,
+          "name": "Maximus",
+          "id": 3447,
+          "games": 249,
+          "win_rate": 0.4457831325301205,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 110,
+          "losses": 139,
+          "name": "Atlas",
+          "id": 3277,
+          "games": 249,
+          "win_rate": 0.44176706827309237,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 110,
+          "losses": 139,
+          "name": "Warpath",
+          "id": 2158,
+          "games": 249,
+          "win_rate": 0.44176706827309237,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 108,
+          "losses": 141,
+          "name": "Armor",
+          "id": 4442,
+          "games": 249,
+          "win_rate": 0.43373493975903615,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 107,
+          "losses": 142,
+          "name": "Black Widow",
+          "id": 3200,
+          "games": 249,
+          "win_rate": 0.42971887550200805,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 107,
+          "losses": 142,
+          "name": "Red Skull",
+          "id": 2250,
+          "games": 249,
+          "win_rate": 0.42971887550200805,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 107,
+          "losses": 142,
+          "name": "Rhino",
+          "id": 2126,
+          "games": 249,
+          "win_rate": 0.42971887550200805,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 104,
+          "losses": 145,
+          "name": "Bullseye",
+          "id": 4647,
+          "games": 249,
+          "win_rate": 0.41767068273092367,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 103,
+          "losses": 146,
+          "name": "Justice",
+          "id": 4811,
+          "games": 249,
+          "win_rate": 0.41365461847389556,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 103,
+          "losses": 146,
+          "name": "Lizard",
+          "id": 1488,
+          "games": 249,
+          "win_rate": 0.41365461847389556,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 102,
+          "losses": 147,
+          "name": "Avalanche",
+          "id": 3553,
+          "games": 249,
+          "win_rate": 0.40963855421686746,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 102,
+          "losses": 147,
+          "name": "Namorita",
+          "id": 2113,
+          "games": 249,
+          "win_rate": 0.40963855421686746,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 101,
+          "losses": 148,
+          "name": "Guardian",
+          "id": 5047,
+          "games": 249,
+          "win_rate": 0.40562248995983935,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 100,
+          "losses": 149,
+          "name": "Boom-Boom",
+          "id": 2159,
+          "games": 249,
+          "win_rate": 0.40160642570281124,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 100,
+          "losses": 149,
+          "name": "Sauron",
+          "id": 3180,
+          "games": 249,
+          "win_rate": 0.40160642570281124,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 98,
+          "losses": 151,
+          "name": "Hawkeye",
+          "id": 1475,
+          "games": 249,
+          "win_rate": 0.39357429718875503,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 97,
+          "losses": 152,
+          "name": "Jessica Jones",
+          "id": 2265,
+          "games": 249,
+          "win_rate": 0.3895582329317269,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 96,
+          "losses": 153,
+          "name": "Wizard",
+          "id": 3287,
+          "games": 249,
+          "win_rate": 0.3855421686746988,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 95,
+          "losses": 154,
+          "name": "Aurora",
+          "id": 3189,
+          "games": 249,
+          "win_rate": 0.3815261044176707,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 94,
+          "losses": 155,
+          "name": "Gorgon",
+          "id": 4330,
+          "games": 249,
+          "win_rate": 0.37751004016064255,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 93,
+          "losses": 156,
+          "name": "Donald Pierce",
+          "id": 3556,
+          "games": 249,
+          "win_rate": 0.37349397590361444,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 92,
+          "losses": 157,
+          "name": "Devil Dinosaur",
+          "id": 2172,
+          "games": 249,
+          "win_rate": 0.36947791164658633,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 92,
+          "losses": 157,
+          "name": "Katie Power",
+          "id": 2191,
+          "games": 249,
+          "win_rate": 0.36947791164658633,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 92,
+          "losses": 157,
+          "name": "Sandman",
+          "id": 3544,
+          "games": 249,
+          "win_rate": 0.36947791164658633,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 90,
+          "losses": 159,
+          "name": "Feral",
+          "id": 2160,
+          "games": 249,
+          "win_rate": 0.3614457831325301,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 90,
+          "losses": 159,
+          "name": "Taskmaster",
+          "id": 4578,
+          "games": 249,
+          "win_rate": 0.3614457831325301,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 88,
+          "losses": 161,
+          "name": "Lila Cheney",
+          "id": 4556,
+          "games": 249,
+          "win_rate": 0.3534136546184739,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 87,
+          "losses": 162,
+          "name": "Dust",
+          "id": 4555,
+          "games": 249,
+          "win_rate": 0.3493975903614458,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 85,
+          "losses": 164,
+          "name": "Nick Fury",
+          "id": 3202,
+          "games": 249,
+          "win_rate": 0.3413654618473896,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 84,
+          "losses": 165,
+          "name": "Frenzy",
+          "id": 2163,
+          "games": 249,
+          "win_rate": 0.3373493975903614,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 84,
+          "losses": 165,
+          "name": "Punisher",
+          "id": 1525,
+          "games": 249,
+          "win_rate": 0.3373493975903614,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 84,
+          "losses": 165,
+          "name": "Werewolf By Night",
+          "id": 4984,
+          "games": 249,
+          "win_rate": 0.3373493975903614,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 83,
+          "losses": 166,
+          "name": "Scorpion",
+          "id": 4484,
+          "games": 249,
+          "win_rate": 0.3333333333333333,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 83,
+          "losses": 166,
+          "name": "Silver Samurai",
+          "id": 3174,
+          "games": 249,
+          "win_rate": 0.3333333333333333,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 81,
+          "losses": 168,
+          "name": "Wrecker",
+          "id": 2252,
+          "games": 249,
+          "win_rate": 0.3253012048192771,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 80,
+          "losses": 169,
+          "name": "Hellcat",
+          "id": 3316,
+          "games": 249,
+          "win_rate": 0.321285140562249,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 78,
+          "losses": 171,
+          "name": "Callisto",
+          "id": 3423,
+          "games": 249,
+          "win_rate": 0.3132530120481928,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 77,
+          "losses": 172,
+          "name": "Abigail Brand",
+          "id": 4441,
+          "games": 249,
+          "win_rate": 0.3092369477911647,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 76,
+          "losses": 173,
+          "name": "Mockingbird",
+          "id": 2497,
+          "games": 249,
+          "win_rate": 0.30522088353413657,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 74,
+          "losses": 175,
+          "name": "Pyro",
+          "id": 3554,
+          "games": 249,
+          "win_rate": 0.2971887550200803,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 74,
+          "losses": 175,
+          "name": "Wolfsbane",
+          "id": 4557,
+          "games": 249,
+          "win_rate": 0.2971887550200803,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 72,
+          "losses": 177,
+          "name": "Kingpin",
+          "id": 1483,
+          "games": 249,
+          "win_rate": 0.2891566265060241,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 72,
+          "losses": 177,
+          "name": "Mysterio",
+          "id": 4333,
+          "games": 249,
+          "win_rate": 0.2891566265060241,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 69,
+          "losses": 180,
+          "name": "Heather McNeil Hudson",
+          "id": 5009,
+          "games": 249,
+          "win_rate": 0.27710843373493976,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 69,
+          "losses": 180,
+          "name": "Songbird",
+          "id": 3281,
+          "games": 249,
+          "win_rate": 0.27710843373493976,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 69,
+          "losses": 180,
+          "name": "Spider-Girl (Parker)",
+          "id": 3365,
+          "games": 249,
+          "win_rate": 0.27710843373493976,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 69,
+          "losses": 180,
+          "name": "Wong",
+          "id": 2215,
+          "games": 249,
+          "win_rate": 0.27710843373493976,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 68,
+          "losses": 181,
+          "name": "Viper",
+          "id": 3420,
+          "games": 249,
+          "win_rate": 0.27309236947791166,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 64,
+          "losses": 185,
+          "name": "Black Tom Cassidy",
+          "id": 4568,
+          "games": 249,
+          "win_rate": 0.2570281124497992,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 63,
+          "losses": 186,
+          "name": "Nighthawk",
+          "id": 4832,
+          "games": 249,
+          "win_rate": 0.25301204819277107,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 62,
+          "losses": 187,
+          "name": "Typhoid Mary",
+          "id": 1536,
+          "games": 249,
+          "win_rate": 0.24899598393574296,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 61,
+          "losses": 188,
+          "name": "John Jameson",
+          "id": 4456,
+          "games": 249,
+          "win_rate": 0.24497991967871485,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 61,
+          "losses": 188,
+          "name": "Vertigo",
+          "id": 3561,
+          "games": 249,
+          "win_rate": 0.24497991967871485,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 59,
+          "losses": 190,
+          "name": "Kraven the Hunter",
+          "id": 2475,
+          "games": 249,
+          "win_rate": 0.23694779116465864,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 57,
+          "losses": 192,
+          "name": "Abe Jenkins",
+          "id": 4822,
+          "games": 249,
+          "win_rate": 0.2289156626506024,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 57,
+          "losses": 192,
+          "name": "Colleen Wing",
+          "id": 1494,
+          "games": 249,
+          "win_rate": 0.2289156626506024,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 57,
+          "losses": 192,
+          "name": "Dazzler",
+          "id": 1498,
+          "games": 249,
+          "win_rate": 0.2289156626506024,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 56,
+          "losses": 193,
+          "name": "Speedball",
+          "id": 2104,
+          "games": 249,
+          "win_rate": 0.2248995983935743,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 54,
+          "losses": 195,
+          "name": "Baron Helmut Zemo",
+          "id": 3278,
+          "games": 249,
+          "win_rate": 0.21686746987951808,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 54,
+          "losses": 195,
+          "name": "Layla Miller",
+          "id": 1447,
+          "games": 249,
+          "win_rate": 0.21686746987951808,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 54,
+          "losses": 195,
+          "name": "Lockheed",
+          "id": 4444,
+          "games": 249,
+          "win_rate": 0.21686746987951808,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 53,
+          "losses": 196,
+          "name": "Blob",
+          "id": 3182,
+          "games": 249,
+          "win_rate": 0.21285140562248997,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 53,
+          "losses": 196,
+          "name": "Zabu",
+          "id": 3537,
+          "games": 249,
+          "win_rate": 0.21285140562248997,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 52,
+          "losses": 197,
+          "name": "Thunderbird",
+          "id": 2174,
+          "games": 249,
+          "win_rate": 0.20883534136546184,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 51,
+          "losses": 198,
+          "name": "Empath",
+          "id": 2173,
+          "games": 249,
+          "win_rate": 0.20481927710843373,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 49,
+          "losses": 200,
+          "name": "Vulture",
+          "id": 4459,
+          "games": 249,
+          "win_rate": 0.19678714859437751,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 48,
+          "losses": 201,
+          "name": "Thunderball",
+          "id": 2253,
+          "games": 249,
+          "win_rate": 0.1927710843373494,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 47,
+          "losses": 202,
+          "name": "Ka-Zar",
+          "id": 3558,
+          "games": 249,
+          "win_rate": 0.18875502008032127,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 47,
+          "losses": 202,
+          "name": "Skids",
+          "id": 3194,
+          "games": 249,
+          "win_rate": 0.18875502008032127,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 44,
+          "losses": 205,
+          "name": "Destiny",
+          "id": 3557,
+          "games": 249,
+          "win_rate": 0.17670682730923695,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 43,
+          "losses": 206,
+          "name": "Andreas von Strucker",
+          "id": 4815,
+          "games": 249,
+          "win_rate": 0.17269076305220885,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 43,
+          "losses": 206,
+          "name": "Husk",
+          "id": 3426,
+          "games": 249,
+          "win_rate": 0.17269076305220885,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 43,
+          "losses": 206,
+          "name": "Molly Hayes",
+          "id": 1936,
+          "games": 249,
+          "win_rate": 0.17269076305220885,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 42,
+          "losses": 207,
+          "name": "Mr. Hyde",
+          "id": 3233,
+          "games": 249,
+          "win_rate": 0.1686746987951807,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 41,
+          "losses": 208,
+          "name": "Shocker",
+          "id": 4825,
+          "games": 249,
+          "win_rate": 0.1646586345381526,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 39,
+          "losses": 210,
+          "name": "Baron von Strucker",
+          "id": 4662,
+          "games": 249,
+          "win_rate": 0.1566265060240964,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 38,
+          "losses": 211,
+          "name": "Batroc",
+          "id": 1529,
+          "games": 249,
+          "win_rate": 0.15261044176706828,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 38,
+          "losses": 211,
+          "name": "Tombstone",
+          "id": 3161,
+          "games": 249,
+          "win_rate": 0.15261044176706828,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 36,
+          "losses": 213,
+          "name": "Misty Knight",
+          "id": 1491,
+          "games": 249,
+          "win_rate": 0.14457831325301204,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 35,
+          "losses": 214,
+          "name": "Piledriver",
+          "id": 2251,
+          "games": 249,
+          "win_rate": 0.14056224899598393,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 34,
+          "losses": 215,
+          "name": "Jack Power",
+          "id": 3134,
+          "games": 249,
+          "win_rate": 0.13654618473895583,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 34,
+          "losses": 215,
+          "name": "Kate Bishop",
+          "id": 2262,
+          "games": 249,
+          "win_rate": 0.13654618473895583,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 33,
+          "losses": 216,
+          "name": "Black Cat",
+          "id": 1479,
+          "games": 249,
+          "win_rate": 0.13253012048192772,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 33,
+          "losses": 216,
+          "name": "Dum Dum Dugan",
+          "id": 3526,
+          "games": 249,
+          "win_rate": 0.13253012048192772,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 32,
+          "losses": 217,
+          "name": "Crossbones",
+          "id": 3225,
+          "games": 249,
+          "win_rate": 0.1285140562248996,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 29,
+          "losses": 220,
+          "name": "Bulldozer",
+          "id": 2254,
+          "games": 249,
+          "win_rate": 0.11646586345381527,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 29,
+          "losses": 220,
+          "name": "Julie Power",
+          "id": 3133,
+          "games": 249,
+          "win_rate": 0.11646586345381527,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 26,
+          "losses": 223,
+          "name": "Mole Man",
+          "id": 2481,
+          "games": 249,
+          "win_rate": 0.10441767068273092,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 26,
+          "losses": 223,
+          "name": "Puck",
+          "id": 5010,
+          "games": 249,
+          "win_rate": 0.10441767068273092,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 24,
+          "losses": 225,
+          "name": "Toad",
+          "id": 1470,
+          "games": 249,
+          "win_rate": 0.0963855421686747,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 23,
+          "losses": 226,
+          "name": "Shanna",
+          "id": 4579,
+          "games": 249,
+          "win_rate": 0.09236947791164658,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 21,
+          "losses": 228,
+          "name": "Mad Thinker",
+          "id": 2131,
+          "games": 249,
+          "win_rate": 0.08433734939759036,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 20,
+          "losses": 229,
+          "name": "Chameleon",
+          "id": 4458,
+          "games": 249,
+          "win_rate": 0.08032128514056225,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 20,
+          "losses": 229,
+          "name": "Gwen Stacy",
+          "id": 1480,
+          "games": 249,
+          "win_rate": 0.08032128514056225,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 20,
+          "losses": 229,
+          "name": "Rick Jones",
+          "id": 2248,
+          "games": 249,
+          "win_rate": 0.08032128514056225,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 19,
+          "losses": 230,
+          "name": "Trapster",
+          "id": 4328,
+          "games": 249,
+          "win_rate": 0.07630522088353414,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 17,
+          "losses": 232,
+          "name": "Mariko Yashida",
+          "id": 3196,
+          "games": 249,
+          "win_rate": 0.06827309236947791,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 14,
+          "losses": 235,
+          "name": "Dr. Kavita Rao",
+          "id": 4446,
+          "games": 249,
+          "win_rate": 0.05622489959839357,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 14,
+          "losses": 235,
+          "name": "Harry Osborn",
+          "id": 2478,
+          "games": 249,
+          "win_rate": 0.05622489959839357,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 14,
+          "losses": 235,
+          "name": "Rawhide Kid",
+          "id": 4069,
+          "games": 249,
+          "win_rate": 0.05622489959839357,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 12,
+          "losses": 237,
+          "name": "Beak",
+          "id": 3188,
+          "games": 249,
+          "win_rate": 0.04819277108433735,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 12,
+          "losses": 237,
+          "name": "George Stacy",
+          "id": 2479,
+          "games": 249,
+          "win_rate": 0.04819277108433735,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 10,
+          "losses": 239,
+          "name": "Jarvis",
+          "id": 1781,
+          "games": 249,
+          "win_rate": 0.040160642570281124,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 9,
+          "losses": 240,
+          "name": "Ben Urich",
+          "id": 4799,
+          "games": 249,
+          "win_rate": 0.03614457831325301,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 8,
+          "losses": 241,
+          "name": "Alicia Masters",
+          "id": 4337,
+          "games": 249,
+          "win_rate": 0.0321285140562249,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 6,
+          "losses": 243,
+          "name": "Foggy Nelson",
+          "id": 3124,
+          "games": 249,
+          "win_rate": 0.024096385542168676,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 6,
+          "losses": 243,
+          "name": "Trish Tilby",
+          "id": 3178,
+          "games": 249,
+          "win_rate": 0.024096385542168676,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 5,
+          "losses": 244,
+          "name": "Robbie Robertson",
+          "id": 1782,
+          "games": 249,
+          "win_rate": 0.020080321285140562,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 4,
+          "losses": 245,
+          "name": "J. Jonah Jameson",
+          "id": 1487,
+          "games": 249,
+          "win_rate": 0.01606425702811245,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 3,
+          "losses": 246,
+          "name": "Uncle Ben",
+          "id": 3114,
+          "games": 249,
+          "win_rate": 0.012048192771084338,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 2,
+          "losses": 247,
+          "name": "Betty Brant",
+          "id": 2484,
+          "games": 249,
+          "win_rate": 0.008032128514056224,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 2,
+          "losses": 247,
+          "name": "Karen Page",
+          "id": 4486,
+          "games": 249,
+          "win_rate": 0.008032128514056224,
+          "backend": "openrouter"
+        },
+        {
+          "wins": 0,
+          "losses": 249,
+          "name": "Aunt May",
+          "id": 1780,
+          "games": 249,
+          "win_rate": 0.0,
+          "backend": "openrouter"
+        }
+      ]
+    }
+  }
+}

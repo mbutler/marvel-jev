@@ -1,0 +1,2 @@
+[console_scripts]
+marvel-bench = marvel_bench.cli:main
